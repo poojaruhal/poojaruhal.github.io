@@ -25,6 +25,10 @@
 
   .page__inner-wrap {
     @include full();
+    
+    background-color: white;
+    padding: 40px 80px;
+    box-sizing: content-box;
 
     .page__content,
     .page__meta,
