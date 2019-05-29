@@ -10,7 +10,7 @@ This paper was presented as a part of garded subject BITS G649 related research 
 
 [Download paper here](https://ABresting.github.io/files/RES_SEMINAR.pdf)
 
-##ABSTRACT
+## ABSTRACT
 
 With the emergence of large data-centers, scheduling of workload has
 become more challenging. Initially, centralized approach for scheduling
