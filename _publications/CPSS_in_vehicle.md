@@ -3,7 +3,7 @@ title: "Decentralized Firmware Attestation for In-Vehicle Networks"
 collection: publications
 permalink: /publications/CPSS_in_vehicle
 venue: "CPSS ’19, July 8, 2019, Auckland, New Zealand"
-date: 2019-05-28
+date: 2019-05-27
 citation: 'Mohammad Khodari, <b>Abhimanyu Rawat</b>, Andrei Gurtov, Mikael Asplund'
 ---
 This paper is accepted and will apear in the confernece.
