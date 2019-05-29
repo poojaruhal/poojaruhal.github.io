@@ -1,7 +1,7 @@
 ---
 title: "A Novel Energy Optimization Approach for Artificial Intelligence-enabled Massive Internet of Thing"
 collection: publications
-permalink: /publications/2019-05-27-SPECTS
+permalink: /publications/2016-05-27-SPECTS
 venue: "SummerSim 2019, International Symposium on Performance Evaluation of Computer and TelecommunicationSystems"
 date: 2019-07-08
 citation: 'Ali Hassan Sodhro, Mohammad S.Obaidat, Sandeep Pibhulal, Gul Hassan Sodhro,
@@ -11,6 +11,6 @@ This paper is accepted and will apear in the confernece.
 
 [Download paper here]
 
-**ABSTRACT**
+## ABSTRACT
 
 ""

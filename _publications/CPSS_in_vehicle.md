@@ -10,7 +10,7 @@ This paper is accepted and will apear in the confernece.
 
 [Download paper here]
 
-**ABSTRACT**
+## ABSTRACT
 
 Today’s vehicles are equipped with a large number of electronic
 control units (ECUs), which control everything from heating to
