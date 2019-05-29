@@ -1,14 +1,14 @@
 ---
 title: "Hybrid Datacenter Scheduling"
 collection: publications
-permalink: /publications/2016-11-25-res-seminar-1
+permalink: /publications/res-seminar-1
 venue: "BITS Pilani Research Seminar, BITS G649"
 date: 2016-11-25
 citation: '<b>Abhimanyu Rawat</b>, Arpit Srivastava'
 ---
 This paper was presented as a part of garded subject BITS G649 related research seminar.
 
-[Download paper here](https://abresting.github.io/files/RES_SEMINAR.pdf)
+[Download paper here](https://ABresting.github.io/files/RES_SEMINAR.pdf)
 
 ##ABSTRACT
 
