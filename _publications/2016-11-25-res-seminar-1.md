@@ -8,7 +8,7 @@ citation: '<b>Abhimanyu Rawat</b>, Arpit Srivastava'
 ---
 This paper was presented as a part of garded subject BITS G649 related research seminar.
 
-[Download paper here](http://127.0.0.1:4000/files/RES_SEMINAR.pdf)
+[Download paper here](https://abresting.github.io/files/RES_SEMINAR.pdf)
 
 **ABSTRACT**
 
