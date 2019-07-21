@@ -6,7 +6,7 @@ author_profile: true
 
 <!--
 <p align="center">
-  <img src="http://localhost:4000/images/abhi1.png?raw=true" alt="Photo" style="width: 250px;"/> 
+  <img src="http://localhost:4000/images/Pooja.JPG?raw=true" alt="Photo" style="width: 250px;"/> 
 </p>
 -->
 * I am a PhD Candidate in the [Software composition group](http://scg.unibe.ch/) at [University of Bern](https://www.unibe.ch/).

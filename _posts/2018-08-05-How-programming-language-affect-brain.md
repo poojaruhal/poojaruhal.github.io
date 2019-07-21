@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 2'
-date: 2018
-permalink: /posts/2018/blog-post-2/
+title: 'How-programming-language-affect-brain'
+date: 2018-08-05
+permalink: /posts/2018/How-programming-language-affect-brain/
 tags:
   - Programming languages
   - Language effects

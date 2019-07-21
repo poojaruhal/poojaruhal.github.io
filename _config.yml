@@ -12,8 +12,8 @@ title_separator          : "-"
 name                     : &name "Pooja Rani"
 description              : &description ""
 url                      : https://poojaruhal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "poojaruhal" # the subpath of your site, e.g. "/blog"
-repository               : "poojaruhal.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "poojaruhal/poojaruhal.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/pooja-ruhal-01985b68/"
+  linkedin         : "pooja-ruhal-01985b68"
   orcid            : 
   pinterest        :
   soundcloud       :

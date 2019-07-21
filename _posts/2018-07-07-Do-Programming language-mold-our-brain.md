@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 1'
-date: 2018
-permalink: /posts/2018/blog-post-1/
+title: 'Do-Programming language-mold-our-brain'
+date: 2018-07-7
+permalink: /posts/2018/Do-Programming language-mold-our-brain/
 tags:
     - Brain
     - Programming language effect
