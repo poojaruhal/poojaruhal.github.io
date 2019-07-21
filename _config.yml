@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abhimanyu Rawat"
+title                    : "Pooja Rani"
 title_separator          : "-"
-name                     : &name "Abhimanyu Rawat"
+name                     : &name "Pooja Rani"
 description              : &description ""
-url                      : https://ABresting.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ABresting/ABresting.github.io"
+url                      : https://poojaruhal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "poojaruhal" # the subpath of your site, e.g. "/blog"
+repository               : "poojaruhal.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abhimanyu Rawat"
-  avatar           : "abhi1.png"
-  bio              : "Researcher Systems and Networking, ex- DellEMC Protocols Developer(DDOS)"
-  location         : "Linkoping, Sweden"
+  name             : "Pooja Rani"
+  avatar           : "Pooja.JPG"
+  bio              : "Research Assistant"
+  location         : "Bern, Switzerland"
   employer         :
   googlescholar    : 
-  email            : "abhimanyu.rawat@liu.se"
+  email            : "pooja.rani@inf.unibe.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,19 +95,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ABresting"
+  github           : "poojaruhal"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "http://linkedin.com/in/abhimanyu-rawat-3347b45b/"
+  linkedin         : "https://www.linkedin.com/in/pooja-ruhal-01985b68/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "yvgkq_b7qyx"
+  twitter          : "poojaruhal"
   vine             :
   weibo            :
   xing             :
