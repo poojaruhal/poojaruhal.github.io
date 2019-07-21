@@ -6,4 +6,6 @@ tags:
   - Programming languages
   - Language effects
   
+---
+ 
 [How a programming language affect our brain](https://medium.com/@poojaruhal65/how-a-programming-language-affect-us-brain-e870fabbf22d)
