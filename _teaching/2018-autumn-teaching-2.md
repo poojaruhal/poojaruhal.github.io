@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 2"
+title: "Software Modeling analysis"
 collection: teaching
-type: "Course"
+type: "Masters course"
 permalink: /teaching/2018-autumn-teaching-1
 venue: "University of Bern"
 date: 2018-09-15

@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Programming 2"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-spring-teaching-1
