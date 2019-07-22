@@ -1,5 +1,5 @@
 ---
-title: 'How-a-programming-language-affect-our-brain'
+title: 'How a programming language affect our brain'
 date: 2018-08-05
 permalink: /posts/2018/How-a-programming-language-affect-our-brain/
 tags:

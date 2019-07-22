@@ -1,5 +1,5 @@
 ---
-title: 'Do-Programming-language-mold-our-brain'
+title: 'Do Programming language mold our brain as natural languages do'
 date: 2018-07-07
 permalink: /posts/2018/Do-Programming-language-mold-our-brain/
 tags:

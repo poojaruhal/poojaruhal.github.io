@@ -3,7 +3,7 @@ title: "Let Linguistics guide software analysis"
 collection: talks
 type: "Talk"
 permalink: /talks/2018-10-22-talk-linguistics
-venue: ", Department of Linguistics"
+venue: "Department of Linguistics"
 date: 2018-10-22
 location: "Les Diablerets, Switzerland"
 ---

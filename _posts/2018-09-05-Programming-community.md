@@ -1,9 +1,9 @@
 ---
-title: 'Programming-community'
+title: 'Programming community'
 date: 2018-09-05
 permalink: /posts/2018/Programming-community/
 tags:
-  - Devlopers' community
+  - Developers' community
   - Programming languages
   -  Natural language 
   - Programming community
