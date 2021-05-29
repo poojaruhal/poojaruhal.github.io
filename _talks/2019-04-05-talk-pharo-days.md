@@ -1,7 +1,7 @@
 ---
 title: "Comment soup with a pinch of types, served in a leaky bowl"
 collection: talks
-type: "Talk"
+type: "Presentation"
 permalink: /talks/2019-04-05-talk-pharo-days
 venue: "Pharo Days"
 date: 2019-04-05
