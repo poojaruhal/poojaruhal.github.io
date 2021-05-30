@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications (Google Scholar Profile)"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -17,7 +17,22 @@ author_profile: true
 {% endfor %}
 -->
 
-<b>[Software Analysis using Natural Language Queries](https://poojaruhal.github.io/publications/rani18)</b> <br> 
+<b>[Software Analysis using Natural Language Queries](https://poojaruhal.github.io/publications/Paper-Software-Analysis-using-Natural-Language-Queries)</b> <br> 
 <b>Pooja Rani</b>,
-<i>Seminar Series on Advanced Techniques \& Tools for Software Evolution (SATToSE), 2018</i>,
+<i>Seminar Series on Advanced Techniques \& Tools for Software Evolution</i>,
 <b>(SATToSE), 2018</b>.
+
+<b>[Makar: A Framework for Multi-source Studies based on Unstructured Data](https://poojaruhal.github.io/publications/Paper-Makar-A-Framework-for-Multi-Source-Studies)</b> <br>
+<b>Pooja Rani</b>,
+<i>International Conference on Software Analysis, Evolution and Reengineering</i>,
+<b>(SANER), 2021</b>.
+
+<b>[Speculative Analysis for Quality Assessment of Code Comments](https://poojaruhal.github.io/publications/Paper-Speculative-Analysis-for-Comment-Quality-Assessment)</b> <br>
+<b>Pooja Rani</b>,
+<i>International Conference on Software Engineering</i>,
+<b>(ICSE), 2021</b>.
+
+<b>[What do class comments tell us? An investigation of comment evolution and practices in Pharo Smalltalk](https://poojaruhal.github.io/publications/Paper-What-do-class-comments-tell-us-in-Pharo-Smalltalk)</b> <br>
+<b>Pooja Rani</b>,
+<i>Empirical Software Engineering</i>,
+<b>(EMSE), 2021</b>.

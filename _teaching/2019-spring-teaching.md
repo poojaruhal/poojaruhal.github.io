@@ -2,11 +2,10 @@
 title: "Programming 2"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2020-spring-teaching-1
+permalink: /teaching/2019-spring-teaching
 venue: "University of Bern"
-date: 2020-02-15 - 2020-06-30
+date: 2019-02-15 - 2019-06-30
 location: "Bern, Switzerland"
-course mode: "hybrid"
 ---
 
 This course provides an introduction to object-oriented design in Java with an emphasis on practical techniques for developing complex software systems.

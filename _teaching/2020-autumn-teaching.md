@@ -2,7 +2,7 @@
 title: "Software Modeling analysis"
 collection: teaching
 type: "Masters course"
-permalink: /teaching/2020-autumn-teaching-1
+permalink: /teaching/2020-autumn-teaching
 venue: "University of Bern"
 date: 2020-09-15
 location: "Bern, Switzerland"
