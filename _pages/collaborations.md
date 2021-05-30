@@ -1,7 +1,7 @@
 ---
 
 layout: archive
-title: "Publications"
+title: "Collaborations"
 permalink: /collaborations/
 * [Sebastiano Panichella](https://spanichella.github.io/)                   Zurich University of Applied Science, Switzerland   2018-Today
 * [Mohammad Ghafari](https://scholar.google.com/citations?user=6G3BI-UAAAAJ) University of Auckland, New Zealand                2018-Today

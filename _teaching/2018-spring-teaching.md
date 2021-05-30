@@ -1,5 +1,5 @@
 ---
-title: "Programming 2"
+title: "Object-orineted Programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-spring-teaching
