@@ -7,8 +7,8 @@ date: 2021-03-11
 citation: ' <b>Pooja Rani</b>'
 ---
 
-[Download paper here](https://poojaruhal.github.io/files/Paper-Makar-A-Framework-for-Multi-Source-Studies.pdf)
-[Download talk here](https://poojaruhal.github.io/files/Slides-Makar-A-Framework-for-Multi-Source-Studies.pdf)
+[Download paper here](https://poojaruhal.github.io/files/Paper-Makar-A-Framework-for-Multi-Source-Studies.pdf), 
+[Download talk here](https://poojaruhal.github.io/files/Slides-Makar-A-Framework-for-Multi-Source-Studies.pdf), 
 [Download data here](10.5281/zenodo.4434822)
 
 ## ABSTRACT

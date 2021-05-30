@@ -7,7 +7,7 @@ date: 2018-07-01
 citation: ' <b>Pooja Rani</b>'
 ---
 
-[Download paper here](https://poojaruhal.github.io/files/Paper-Software-Analysis-using-Natural-Language-Queries.pdf)
+[Download paper here](https://poojaruhal.github.io/files/Paper-Software-Analysis-using-Natural-Language-Queries.pdf), 
 [Download talk here](https://poojaruhal.github.io/files/Slides-Software-Analysis-using-Natural-Language-Queries.pdf)
 
 ## ABSTRACT

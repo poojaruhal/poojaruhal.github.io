@@ -7,7 +7,7 @@ date: 2021-05-24
 citation: ' <b>Pooja Rani</b>'
 ---
 
-[Download paper here](https://poojaruhal.github.io/files/Paper-Speculative-Analysis-for-Comment-Quality-Assessment.pdf)
+[Download paper here](https://poojaruhal.github.io/files/Paper-Speculative-Analysis-for-Comment-Quality-Assessment.pdf), 
 [Download talk here](https://poojaruhal.github.io/files/Slides-Speculative-Analysis-for-Comment-Quality-Assessment.pdf)
 
 ## ABSTRACT
