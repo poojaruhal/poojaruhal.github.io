@@ -2,7 +2,7 @@
 title: "Software Skill Lab"
 collection: talks
 type: "Guest Lecture"
-permalink: /talks/2019-09-18-unibe
+permalink: /talks/2019-09-18-Software-skills-lab
 venue: "Institute of Informatik"
 date: 2019-09-18
 location: "University of Bern"
