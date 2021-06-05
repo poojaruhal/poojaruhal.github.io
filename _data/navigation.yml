@@ -11,7 +11,13 @@ main:
     
   - title: "CV"
     url: /files/Pooja_Rani.pdf
-    
+
+  - title: "Collaborations"
+    url: /collaborations/
+
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "Blog"
     url: /blog/
 
