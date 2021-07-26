@@ -37,7 +37,7 @@ author_profile: true
 <i>Empirical Software Engineering (EMSE)</i>,
 <b>2021</b>.
 
-<b>[What How to Identify Class Comment Types?
+<b>[How to Identify Class Comment Types?
 A Multi-language Approach for Class Comment Classification](https://poojaruhal.github.io/publications/Paper-Paper-How_to_Identify_class_comment_types)</b> <br>
 <b>Pooja Rani</b>,
 <i>Journal of Systems and Software (JSS)</i>,
