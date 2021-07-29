@@ -39,7 +39,7 @@ More details can be found [Here](http://scg.unibe.ch/teaching/p2) <br>
 <b> Msc </b>
 
 * <i>[Analysis of Developer Information Needs on Collaborative Platforms](http://scg.unibe.ch/archive/masters/Birr20a.pdf)</i><br>
-<b>[Jonas Richner](http://scg.unibe.ch/wiki/alumni/JonasRichner)</b>
+<b>[Mathias Birrer](http://scg.unibe.ch/wiki/alumni/MathiasBirrer)</b>
 <b> 2019-2020 </b>
 
 -- 
