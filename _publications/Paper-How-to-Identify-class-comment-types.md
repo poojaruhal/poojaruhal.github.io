@@ -2,13 +2,14 @@
 title: "How to Identify Class Comment Types?
 A Multi-language Approach for Class Comment Classification"
 collection: publications
-permalink: /publications/Paper-How_to_Identify_class_comment_types
+permalink: /publications/Paper-How-to-Identify-class-comment-types
 venue: "Journal of Systems and Software (JSS), 2021"
 date: 2021-07-21
 citation: ' <b>Pooja Rani</b>'
 ---
 
-[Download paper here](https://arxiv.org/abs/2107.04521), 
+[Download paper here-Arxiv](https://arxiv.org/abs/2107.04521),
+[Download paper here](https://doi.org/10.1016/j.jss.2021.111047),
 [Download Data here](10.5281/zenodo.4311839), 
 [Replication package](https://github.com/poojaruhal/RP-class-comment-classification)
 
