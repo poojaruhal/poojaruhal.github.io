@@ -38,15 +38,16 @@ More details can be found [Here](http://scg.unibe.ch/teaching/p2) <br>
 --
 <b> Msc </b>
 
-* <i>[Analysis of Developer Information Needs on Collaborative Platforms](http://scg.unibe.ch/archive/masters/Birr20a.pdf)</i>[<i>[Pdf](http://scg.unibe.ch/archive/masters/Birr20a.pdf)</i>] by
+* <i>[Analysis of Developer Information Needs on Collaborative Platforms](http://scg.unibe.ch/archive/masters/Birr20a.pdf)</i>
+[<i>[Thesis](http://scg.unibe.ch/archive/masters/Birr20a.pdf)</i>] by
 <b>[Mathias Birrer](http://scg.unibe.ch/wiki/alumni/MathiasBirrer)</b>
 <b> 2019-2020 </b>
 
 -- 
 <b> Bsc </b>
 
-* <i>[Style Checkers support to comments](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Commenting-conventions-in-style-guidelines-style-checkers)</i>[
-[Pdf](http://scg.unibe.ch/archive/projects/Dool21a.pdf)</i>] by
+* <i>[Style Checkers support to comments](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Commenting-conventions-in-style-guidelines-style-checkers)</i>[<i>
+[Thesis](http://scg.unibe.ch/archive/projects/Dool21a.pdf)</i>] by
 <b>[Michael Dooley](http://scg.unibe.ch/wiki/students/MichaelDooley)</b>
 <b> 2021 </b>
 
@@ -55,12 +56,12 @@ More details can be found [Here](http://scg.unibe.ch/teaching/p2) <br>
 <b> 2020-2021 </b>
 
 * <i>[Automatically generate Pharo class comments](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Automatically-generate-Pharo-class-comments)</i>[
-<i>[Pdf](http://scg.unibe.ch/archive/projects/Hess21a.pdf)</i>] by
+<i>[Thesis](http://scg.unibe.ch/archive/projects/Hess21a.pdf)</i>] by
 <b>[Lino Hess](http://scg.unibe.ch/wiki/students/LinoHess)</b>
 <b> 2020-2021 </b>
 
 * <i>[Software Developers' Information Needs](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Derive-the-context)</i>[
-<i>[Pdf](http://scg.unibe.ch/archive/projects/Rich19a.pdf)</i>] by
+<i>[Thesis](http://scg.unibe.ch/archive/projects/Rich19a.pdf)</i>] by
 <b>[Jonas Richner](http://scg.unibe.ch/wiki/alumni/JonasRichner)</b>
 <b> 2018-2019 </b>
 
