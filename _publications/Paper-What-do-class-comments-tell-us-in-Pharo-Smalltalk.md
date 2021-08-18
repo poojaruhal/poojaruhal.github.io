@@ -2,12 +2,13 @@
 title: "What do class comments tell us? An investigation of comment evolution and practices in Pharo"
 collection: publications
 permalink: /publications/Paper-What-do-class-comments-tell-us-in-Pharo-Smalltalk
-venue: "Empirical Software Engineering (EMSE), 2021"
-date: 2021-02-01
+venue: "Empirical Software Engineering (EMSE)"
+date: 2021-08-18
 citation: ' <b>Pooja Rani</b>'
 ---
 
-[Download paper here](https://arxiv.org/abs/2005.11583), 
+[Download paper here-Arxiv](https://arxiv.org/abs/2005.11583), ]
+[Download paper-pdf](https://link.springer.com/content/pdf/10.1007/s10664-021-09981-5.pdf),
 [Download Data here](10.5281/zenodo.3374819), 
 [Replication package](https://github.com/poojaruhal/CommentAnalysisInPharo)
 
