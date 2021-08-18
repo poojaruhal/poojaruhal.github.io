@@ -8,9 +8,9 @@ date: 2021-07-21
 citation: ' <b>Pooja Rani</b>'
 ---
 
-[Download paper here-Arxiv](https://arxiv.org/abs/2107.04521),
-[Download paper here](https://doi.org/10.1016/j.jss.2021.111047),
-[Download Data here](10.5281/zenodo.4311839), 
+[ Paper here-Arxiv](https://arxiv.org/abs/2107.04521),
+[PDF](https://doi.org/10.1016/j.jss.2021.111047),
+[Data](10.5281/zenodo.4311839), 
 [Replication package](https://github.com/poojaruhal/RP-class-comment-classification)
 
 ## ABSTRACT

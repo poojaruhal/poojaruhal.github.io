@@ -7,9 +7,10 @@ date: 2021-03-11
 citation: ' <b>Pooja Rani</b>'
 ---
 
-[Download paper here](https://poojaruhal.github.io/files/Paper-Makar-A-Framework-for-Multi-Source-Studies.pdf), 
-[Download talk here](https://poojaruhal.github.io/files/Slides-Makar-A-Framework-for-Multi-Source-Studies.pdf), 
-[Download data here](10.5281/zenodo.4434822)
+[Download paper](https://poojaruhal.github.io/files/Paper-Makar-A-Framework-for-Multi-Source-Studies.pdf), 
+[Download talk](https://poojaruhal.github.io/files/Slides-Makar-A-Framework-for-Multi-Source-Studies.pdf), 
+[Data](10.5281/zenodo.4434822)
+[Tool](https://github.com/maethub/makar)
 
 ## ABSTRACT
 Abstract—To perform various development and maintenance tasks, developers frequently seek information on various sources such as mailing lists, Stack Overflow (SO), and Quora. 

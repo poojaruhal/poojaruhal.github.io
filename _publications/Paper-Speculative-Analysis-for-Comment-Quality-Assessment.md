@@ -7,8 +7,8 @@ date: 2021-05-24
 citation: ' <b>Pooja Rani</b>'
 ---
 
-[Download paper here](https://poojaruhal.github.io/files/Paper-Speculative-Analysis-for-Comment-Quality-Assessment.pdf), 
-[Download talk here](https://poojaruhal.github.io/files/Slides-Speculative-Analysis-for-Comment-Quality-Assessment.pdf)
+[Download paper](https://poojaruhal.github.io/files/Paper-Speculative-Analysis-for-Comment-Quality-Assessment.pdf), 
+[Download talk](https://poojaruhal.github.io/files/Slides-Speculative-Analysis-for-Comment-Quality-Assessment.pdf)
 
 ## ABSTRACT
 Previous studies have shown that high-quality code comments assist developers in program comprehension and maintenance tasks.

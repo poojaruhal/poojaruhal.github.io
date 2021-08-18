@@ -7,9 +7,9 @@ date: 2021-08-18
 citation: ' <b>Pooja Rani</b>'
 ---
 
-[Download paper here-Arxiv](https://arxiv.org/abs/2005.11583), ]
-[Download paper-pdf](https://link.springer.com/content/pdf/10.1007/s10664-021-09981-5.pdf),
-[Download Data here](10.5281/zenodo.3374819), 
+[Arxiv](https://arxiv.org/abs/2005.11583), 
+[Paper-pdf](https://link.springer.com/content/pdf/10.1007/s10664-021-09981-5.pdf),
+[Data](10.5281/zenodo.3374819), 
 [Replication package](https://github.com/poojaruhal/CommentAnalysisInPharo)
 
 ## ABSTRACT
