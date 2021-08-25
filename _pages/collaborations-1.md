@@ -29,6 +29,10 @@ author_profile: true
 <i>University of Sannio, Italy</i>,
 <b>2019-Today</b>.
 
+<b>[Alexander Bergel](http://www.bergel.eu)</b> <br>
+<i>University of Chille, Chille</i>,
+<b>2020-Today</b>.
+
 <b>[Nataliia Stulova](https://s0nata.github.io/)</b> <br>
 <i>University of Bern, Switzerland</i>,
 <b>2020-Today</b>.

@@ -19,7 +19,7 @@ Prior to my masters, I have worked in different profiles in software engineering
 I can say that I have witnessed the real software engineering happening in various industries and in various profiles.
 
 ## Recent Updates
-- Paper accepted in Source Code Analysis and Manipulation (SCAM), 2021
+- Papers accepted in Source Code Analysis and Manipulation (SCAM), 2021
 - Paper accepted in Journal of Systems and Software (JSS), 2021 
 - Paper accepted in Empirical software engineering (EMSE), 2021 
 - Doctoral Symposium Paper accepted in International Conference on Software Engineering (ICSE), 2021 
