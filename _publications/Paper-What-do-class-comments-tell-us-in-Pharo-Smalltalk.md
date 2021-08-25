@@ -4,7 +4,6 @@ collection: publications
 permalink: /publications/Paper-What-do-class-comments-tell-us-in-Pharo-Smalltalk
 venue: "Empirical Software Engineering (EMSE)"
 date: 2021-08-18
-citation: ' <b>Pooja Rani</b>'
 ---
 
 [Arxiv](https://arxiv.org/abs/2005.11583), 

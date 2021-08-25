@@ -5,7 +5,6 @@ collection: publications
 permalink: /publications/Paper-How-to-Identify-class-comment-types
 venue: "Journal of Systems and Software (JSS)"
 date: 2021-07-21
-citation: ' <b>Pooja Rani</b>'
 ---
 
 [ Paper here-Arxiv](https://arxiv.org/abs/2107.04521),

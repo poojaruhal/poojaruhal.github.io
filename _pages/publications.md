@@ -16,20 +16,14 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
-
-<b>[Software Analysis using Natural Language Queries](https://poojaruhal.github.io/publications/Paper-Software-Analysis-using-Natural-Language-Queries)</b> <br> 
+<b>[Do Comments follow Commenting Conventions? A case study in Java and Python](https://poojaruhal.github.io/publications/Paper-Do-Comments-follow-Commenting-Conventions)</b> <br>
 <b>Pooja Rani</b>,
-<i>Seminar Series on Advanced Techniques \& Tools for Software Evolution (SATToSE)</i>,
-<b>2018</b>.
-
-<b>[Makar: A Framework for Multi-source Studies based on Unstructured Data](https://poojaruhal.github.io/publications/Paper-Makar-A-Framework-for-Multi-Source-Studies)</b> <br>
-<b>Pooja Rani</b>,
-<i>International Conference on Software Analysis, Evolution and Reengineering (SANER)</i>,
+<i>International Working Conference on Source Code Analysis and Manipulation (SCAM)</i>,
 <b>2021</b>.
 
-<b>[Speculative Analysis for Quality Assessment of Code Comments](https://poojaruhal.github.io/publications/Paper-Speculative-Analysis-for-Comment-Quality-Assessment)</b> <br>
+<b>[What Do Developers Discuss about Code Comments?](https://poojaruhal.github.io/publications/Paper-What-do-developers-discuss-about-code-comments)</b> <br>
 <b>Pooja Rani</b>,
-<i>International Conference on Software Engineering (ICSE)</i>,
+<i>International Working Conference on Source Code Analysis and Manipulation (SCAM)</i>,
 <b>2021</b>.
 
 <b>[What do class comments tell us? An investigation of comment evolution and practices in Pharo Smalltalk](https://poojaruhal.github.io/publications/Paper-What-do-class-comments-tell-us-in-Pharo-Smalltalk)</b> <br>
@@ -42,3 +36,26 @@ A Multi-language Approach for Class Comment Classification](https://poojaruhal.g
 <b>Pooja Rani</b>,
 <i>Journal of Systems and Software (JSS)</i>,
 <b>2021</b>.
+
+<b>[Speculative Analysis for Quality Assessment of Code Comments](https://poojaruhal.github.io/publications/Paper-Speculative-Analysis-for-Comment-Quality-Assessment)</b> <br>
+<b>Pooja Rani</b>,
+<i>International Conference on Software Engineering (ICSE)</i>,
+<b>2021</b>.
+
+<b>[Makar: A Framework for Multi-source Studies based on Unstructured Data](https://poojaruhal.github.io/publications/Paper-Makar-A-Framework-for-Multi-Source-Studies)</b> <br>
+<b>Pooja Rani</b>,
+<i>International Conference on Software Analysis, Evolution and Reengineering (SANER)</i>,
+<b>2021</b>.
+
+<b>[Software Analysis using Natural Language Queries](https://poojaruhal.github.io/publications/Paper-Software-Analysis-using-Natural-Language-Queries)</b> <br> 
+<b>Pooja Rani</b>,
+<i>Seminar Series on Advanced Techniques \& Tools for Software Evolution (SATToSE)</i>,
+<b>2018</b>.
+
+
+
+
+
+
+
+
