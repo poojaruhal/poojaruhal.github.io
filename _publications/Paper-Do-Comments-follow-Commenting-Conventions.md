@@ -6,9 +6,10 @@ venue: "International Working Conference on Source Code Analysis and Manipulatio
 date: 2021-08-20
 ---
 
-[Download paper](https://poojaruhal.github.io/files/Paper-Do-Comments-follow-Commenting-Conventions.pdf),
-[Download talk](https://poojaruhal.github.io/files/Slides-Paper-Do-Comments-follow-Commenting-Conventions.pdf),
-[Data](https://doi.org/10.5281/zenodo.5153663)
+[Paper](https://poojaruhal.github.io/files/Paper-Do-Comments-follow-Commenting-Conventions.pdf),
+[Presenation](https://poojaruhal.github.io/files/Slides-Do-comments-follow-commenting-conventions.pdf),
+[Data](https://doi.org/10.5281/zenodo.5153663), 
+[Video](https://youtu.be/mX_9XxQTSxQ)
 
 ## ABSTRACT
 Assessing code comment quality is known to be a difficult problem.

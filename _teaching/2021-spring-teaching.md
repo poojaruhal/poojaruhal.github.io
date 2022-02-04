@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-spring-teaching
 venue: "University of Bern"
-date: 2020-02-15 - 2020-06-30
+date: 2021-02-15 - 2021-06-30
 location: "Bern, Switzerland"
 course mode: "virtual"
 ---
