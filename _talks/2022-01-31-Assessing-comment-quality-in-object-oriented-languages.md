@@ -12,4 +12,4 @@ location: "University of Bern"
 
 High-quality code comments assist developers in program comprehension and maintenance tasks but ensuring their quality is a difficult task. 
 Quality is a multi-dimensional concept, therefore it requires multi-prepspective views.
-We analyze code comments from three prespective, (1) what academic support is there to assess comment quality, (ii) what are developer commenting practices across languages, and (iii) what are developer concerns regarding code comments. 
+We analyze code comments from three prespective, (i) what academic support is there to assess comment quality, (ii) what are developer commenting practices across languages, and (iii) what are developer concerns regarding code comments. 
