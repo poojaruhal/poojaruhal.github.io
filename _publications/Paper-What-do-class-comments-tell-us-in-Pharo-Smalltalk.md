@@ -8,7 +8,7 @@ date: 2021-08-18
 
 [Arxiv](https://arxiv.org/abs/2005.11583), 
 [Paper](https://link.springer.com/content/pdf/10.1007/s10664-021-09981-5.pdf),
-[Data](10.5281/zenodo.3374819), 
+[Data](https://doi.org/10.5281/zenodo.3374819), 
 [Replication package](https://github.com/poojaruhal/CommentAnalysisInPharo)
 
 ## ABSTRACT

@@ -8,7 +8,7 @@ date: 2021-03-11
 
 [Paper](https://poojaruhal.github.io/files/Paper-Makar-A-Framework-for-Multi-Source-Studies.pdf),
 [Presenation](https://poojaruhal.github.io/files/Slides-Makar-A-Framework-for-Multi-Source-Studies.pdf),
-[Data](10.5281/zenodo.4434822),
+[Data](https://doi.org/10.5281/zenodo.4434822),
 [Video](https://youtu.be/Yqj1b4Bv-58),
 [Tool](https://github.com/maethub/makar)
 

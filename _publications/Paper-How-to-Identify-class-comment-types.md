@@ -9,7 +9,7 @@ date: 2021-07-21
 
 [ Paper here-Arxiv](https://arxiv.org/abs/2107.04521),
 [PDF](https://doi.org/10.1016/j.jss.2021.111047),
-[Data](10.5281/zenodo.4311839), 
+[Data](https://doi.org/10.5281/zenodo.4311839), 
 [Replication package](https://github.com/poojaruhal/RP-class-comment-classification)
 
 ## ABSTRACT
