@@ -10,5 +10,6 @@ location: "Les Diablerets, Switzerland"
 
 [More information here](https://poojaruhal.github.io/files/Slides-Let-Linguistics-guide-software-analysis.pdf)
 
+[Online](https://www.slideshare.net/PoojaRuhal/let-linguistics-guide-software-analysis)
 
 How linguistics analysis helps us to better understand our software. 

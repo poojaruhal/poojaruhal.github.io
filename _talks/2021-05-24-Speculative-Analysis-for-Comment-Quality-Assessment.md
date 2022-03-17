@@ -10,5 +10,7 @@ location: "Virtual conference"
 
 [More information here](https://poojaruhal.github.io/files/Slides-Speculative-Analysis-for-Comment-Quality-Assessment.pdf)
 
+[Online](https://www.slideshare.net/PoojaRuhal/speculative-analysis-for-comment-quality-assessment)
+
 High-quality code comments assist developers in program comprehension and maintenance tasks but ensuring their quality
 is a difficult task. To achieve high-quality comments, I propose speculative analysis of comment quality aspect.

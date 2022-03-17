@@ -9,3 +9,5 @@ location: "University of Bern"
 ---
 
 [More information here](https://poojaruhal.github.io/files/Slides-SMA-Code-comment-analysis.pdf)
+
+[Online](https://www.slideshare.net/secret/2DZ4dHbAQKArCu)

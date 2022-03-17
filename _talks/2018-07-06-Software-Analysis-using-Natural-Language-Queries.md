@@ -10,4 +10,6 @@ location: "Athens, Greece"
 
 [More information here](https://poojaruhal.github.io/files/Slides-Software-Analysis-using-Natural-Language-Queries.pdf)
 
+[Online](https://www.slideshare.net/PoojaRuhal/let-your-questions-guide-the-software-analysis)
+
 How can software information be speculatively analysed and the results be automatically presented that are relevant to the developer’s task at hand?
