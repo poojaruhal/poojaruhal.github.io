@@ -28,7 +28,7 @@ More details can be found [Here](http://scg.unibe.ch/teaching/sma) <br>
 <b>[Object-orineted Programming](https://poojaruhal.github.io/teaching/2018-spring-teaching)</b> <br>
 <b>Undergraduate course</b>,
 <i>University of Bern</i>,
-<b>Every Spring - 2018, 2019, 2020, 2021</b>.<br>
+<b>Every Spring - 2018, 2019, 2020, 2021, 2022</b>.<br>
 This course provides an introduction to object-oriented design in Java with an emphasis on practical techniques for developing complex software systems.
 I instructed the course as a main instructor where I was responsible for hiring help assistants, designing exercise, correcting exercise, and conducting the exam.
 More details can be found [Here](http://scg.unibe.ch/teaching/p2) <br>
@@ -72,6 +72,20 @@ More details can be found [Here](http://scg.unibe.ch/teaching/p2) <br>
 
 --
 <b> Seminar (short) projects </b>
+
+* <i>[Experimenting deep learning models for comment classification](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/developing_a_tool_to_classify_types_of_information_from_comments/index_eng.html)</i>, 
+<b> 2022 </b>
+
+
+* <i>[Documentation practices of developers in Polyglot environments](https://seg.inf.unibe.ch/teaching/current/seminars-topics-22/)</i>, 
+<b> 2022 </b>
+
+* <i>[The role of software documentation in Sustainable software engineering process](https://seg.inf.unibe.ch/teaching/current/seminars-topics-22/)</i>, 
+<b> 2022 </b>
+
+
+* <i>[How do code documentation efforts spread over class hierarchy?](https://seg.inf.unibe.ch/teaching/current/seminars-topics-22/)</i>, 
+<b> 2022 </b>
 
 * <i>[Assessing comment quality automatically in Pharo](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Assess-quality-of-pharo-comments)</i>, 
 <b> 2020 </b>

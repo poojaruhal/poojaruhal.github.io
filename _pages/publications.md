@@ -16,6 +16,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
+<b>[Assessing Comment Quality in Object-Oriented Languages](https://poojaruhal.github.io/publications/PhDThesis-Assessing-comment-quality-object-oriented-languages)</b> <br>
+<b>Pooja Rani, Supervised by Prof. Dr. Oscar Nierstrasz and Dr. Sebastiano Panichella</b>,
+<i>University of Bern, Switzerland</i>,
+<b>2022</b>.
+
 <b>[Do Comments follow Commenting Conventions? A case study in Java and Python](https://poojaruhal.github.io/publications/Paper-Do-Comments-follow-Commenting-Conventions)</b> <br>
 <b>Pooja Rani, Suada Abukar, Nataliia Stulova, Alexander Bergel, Oscar Nierstrasz</b>,
 <i>International Working Conference on Source Code Analysis and Manipulation (SCAM)</i>,
