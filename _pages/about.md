@@ -19,8 +19,8 @@ Prior to my masters, I have worked in industry in different profiles of software
 I can say that I have witnessed the real software engineering happening in various industries and in various profiles.
 
 ## Recent Updates
-- Major revision in Journal of Systems and Software (JSS), 2022.
 - Papers selected for the presentation in SANER 2022 and ICSE 2022 in Journal first track.
+- Major revision in Journal of Systems and Software (JSS), 2022.
 - Papers accepted in Source Code Analysis and Manipulation (SCAM), 2021
 - Paper accepted in Journal of Systems and Software (JSS), 2021 
 - Paper accepted in Empirical software engineering (EMSE), 2021 
