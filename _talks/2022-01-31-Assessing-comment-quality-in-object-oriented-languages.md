@@ -5,7 +5,7 @@ type: "Presentation"
 permalink: /talks/2022-01-31-Assessing-comment-quality-in-object-oriented-languages 
 venue: "PhD defense, 2022"
 date: 2022-01-31
-location: "University of Bern"
+location: "University of Bern, Switzerland"
 ---
 
 [More information here](https://poojaruhal.github.io/files/Slides-Assessing-comment-quality-in-object-oriented-languages.pdf)
