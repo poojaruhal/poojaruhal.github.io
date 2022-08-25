@@ -17,6 +17,11 @@ author_profile: true
 {% endfor %}
 -->
 
+<b>[Can We Automatically Generate Class Comments in Pharo?](https://poojaruhal.github.io/publications/Paper-Can-we-automatically-generate-class-comments-in-Pharo)</b> <br>
+<b>Pooja Rani, Alexander Bergel, Lino Hess, Timo Kehrer, Oscar Nierstrasz</b>,
+<i>University of Bern, Switzerland</i>,
+<b>2022</b>.
+
 <b>[Assessing Comment Quality in Object-Oriented Languages](https://poojaruhal.github.io/publications/PhDThesis-Assessing-comment-quality-object-oriented-languages)</b> <br>
 <b>Pooja Rani, Supervised by Prof. Dr. Oscar Nierstrasz and Dr. Sebastiano Panichella</b>,
 <i>University of Bern, Switzerland</i>,

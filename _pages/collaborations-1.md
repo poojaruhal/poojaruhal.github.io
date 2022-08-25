@@ -16,6 +16,17 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
+<b>[Christos Tsigkanos](https://seg.inf.unibe.ch/christos/)</b> <br>
+<i> Software Engineering Group, Switzerland</i>,
+<b>2022-Today</b>.
+
+<b>[Alexander Boll](https://seg.inf.unibe.ch/people/alex/)</b> <br>
+<i> Software Engineering Group, Switzerland</i>,
+<b>2022-Today</b>.
+
+<b>[Joel Nikalus](https://niklaus.ai/)</b> <br>
+<i> Digital Sustainability Research Center, Switzerland</i>,
+<b>2021-Today</b>.
 
 <b>[Sebastiano Panichella](https://spanichella.github.io/)</b> <br>
 <i> Zurich University of Applied Science, Switzerland</i>,
@@ -43,4 +54,4 @@ author_profile: true
 
 <b>[Arianna Blasi](https://www.inf.usi.ch/phd/blasia/)</b> <br>
 <i>Università della Svizzera italiana</i>,
-<b>2020-Today</b>.
+<b>2020-2022</b>.
