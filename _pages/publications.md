@@ -17,6 +17,11 @@ author_profile: true
 {% endfor %}
 -->
 
+<b>[A Decade of Code Comment Quality Assessment: A Systematic Literature Review?](https://poojaruhal.github.io/files/aper_A_decade_of_code_comment_quality_assessment.pdf)</b> <br>
+<b>Pooja Rani, Arianna Blasi, Nataliia Stulova, Sebastiano Panichella, Alessandra Gorla, Oscar Nierstrasz</b>,
+<i>University of Bern, Switzerland</i>,
+<b>2022</b>.
+
 <b>[Can We Automatically Generate Class Comments in Pharo?](https://poojaruhal.github.io/publications/Paper-Can-we-automatically-generate-class-comments-in-Pharo)</b> <br>
 <b>Pooja Rani, Alexander Bergel, Lino Hess, Timo Kehrer, Oscar Nierstrasz</b>,
 <i>University of Bern, Switzerland</i>,
