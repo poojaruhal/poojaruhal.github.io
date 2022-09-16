@@ -6,7 +6,7 @@ venue: "Journal of Systems and Software (JSS)"
 date: 2022-09-16
 ---
 
-[Paper](https://poojaruhal.github.io/files/aper_A_decade_of_code_comment_quality_assessment.pdf),
+[Paper](https://poojaruhal.github.io/files/Paper_A_decade_of_code_comment_quality_assessment.pdf),
 [Data](https://zenodo.org/record/4729054),
 
 ## ABSTRACT
