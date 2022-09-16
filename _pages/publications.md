@@ -17,7 +17,7 @@ author_profile: true
 {% endfor %}
 -->
 
-<b>[A Decade of Code Comment Quality Assessment: A Systematic Literature Review?](https://poojaruhal.github.io/files/Paper_A_decade_of_code_comment_quality_assessment.pdf)</b> <br>
+<b>[A Decade of Code Comment Quality Assessment: A Systematic Literature Review?](https://poojaruhal.github.io/publications/Paper_A_decade_of_code_comment_quality_assessment)</b> <br>
 <b>Pooja Rani, Arianna Blasi, Nataliia Stulova, Sebastiano Panichella, Alessandra Gorla, Oscar Nierstrasz</b>,
 <i>University of Bern, Switzerland</i>,
 <b>2022</b>.
