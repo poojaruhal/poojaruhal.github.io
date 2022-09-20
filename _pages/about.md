@@ -21,9 +21,10 @@ Prior to my masters, I have worked in industry in different profiles of software
 I can say that I have witnessed the real software engineering happening in various industries and in various profiles.
 
 ## Recent Updates
-- Received the best paper award at IWST, 2022 in Novi Sad, Serbia.  
+- Papers accepted in Journal of Systems and Software (JSS), 2022 
+- Received the best paper award at IWST, 2022 in Novi Sad, Serbia  
 - Paper accepted in International Workshop of Smalltalk Technologies (IWST), 2022
-- Papers selected for the presentation in SANER 2022 and ICSE 2022 in Journal first track.
+- Papers selected for the presentation in SANER 2022 and ICSE 2022 in Journal first track
 - Papers accepted in Source Code Analysis and Manipulation (SCAM), 2021
 - Papers accepted in Journal of Systems and Software (JSS), 2021 
 - Paper accepted in Empirical software engineering (EMSE), 2021 
