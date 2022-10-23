@@ -31,7 +31,9 @@ author_profile: true
 -- 
 <b> Bsc </b>
 
-* <i>[Documentation practices of developers in Polyglot environments](https://seg.inf.unibe.ch/teaching/current/seminars-topics-22/)</i>, 
+* <i>[Documentation practices of developers in Polyglot environments](https://poojaruhal.github.io/projects/Project-documentation-practices-developers-Polyglot-environments)</i>,
+  <i>University of Bern</i>,
+<b> Mohammad Eglil</b>
 <b> 2022 </b>
 
 * <i>[Style Checkers support to comments](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Commenting-conventions-in-style-guidelines-style-checkers)</i>[<i>
