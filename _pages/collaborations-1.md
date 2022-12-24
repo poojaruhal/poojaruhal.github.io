@@ -17,6 +17,10 @@ author_profile: true
 {% endfor %}
 -->
 <b>[Christos Tsigkanos](https://seg.inf.unibe.ch/christos/)</b> <br>
+<i> University of Athens, Greece</i>,
+<b>2022-Today</b>.
+
+<b>[Timo Kehrer](https://seg.inf.unibe.ch/people/timo/)</b> <br>
 <i> Software Engineering Group, Switzerland</i>,
 <b>2022-Today</b>.
 
@@ -34,7 +38,7 @@ author_profile: true
 
 <b>[Mohammad Ghafari](https://scholar.google.com/citations?user=6G3BI-UAAAAJ)</b> <br>
 <i>University of Auckland, New Zealand</i>,
-<b>2018-Today</b>.
+<b>2018-2021</b>.
 
 <b>[Andrea Di Sorbo](https://www.unisannio.it/it/user/9355/didattica)</b> <br>
 <i>University of Sannio, Italy</i>,
@@ -50,7 +54,7 @@ author_profile: true
 
 <b>[Alessandra Gorla](https://software.imdea.org/~alessandra.gorla/)</b> <br>
 <i>IMDEA Software Institute, Spain</i>,
-<b> 2020-Today</b>.
+<b> 2020-2022</b>.
 
 <b>[Arianna Blasi](https://www.inf.usi.ch/phd/blasia/)</b> <br>
 <i>Università della Svizzera italiana</i>,

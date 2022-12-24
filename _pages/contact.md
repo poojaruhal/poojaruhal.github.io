@@ -4,6 +4,8 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 --- 
-Office 106, Schützenmattstrasse 14, Software Composition Group <br>
-University of Bern, Switzerland<br>
-Email: pooja.rani [at] unibe.ch
+Name: Pooja Rani <br>
+Address: Department of Informatics (IFI), University of Zurich <br>
+Binzmuhlestrasse 14, BIN 2.D.12 <br>
+8050 Zurich, Switzerland<br>
+Email: rani [at] ifi.uzh.ch
