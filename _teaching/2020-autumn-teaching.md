@@ -9,5 +9,6 @@ location: "Bern, Switzerland"
 course mode: "virtual"
 ---
 
+Guest lecture can be found [here](https://tube.switch.ch/videos/d7652c65)
 
-Details can be found [here](http://scg.unibe.ch/teaching/sma)
+Course details can be found [here](http://scg.unibe.ch/teaching/sma)
