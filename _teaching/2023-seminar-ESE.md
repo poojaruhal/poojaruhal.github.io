@@ -2,7 +2,7 @@
 title: "Seminar in Empirical Software Engineering"
 collection: teaching
 type: "BSc and MSc course"
-permalink: /teaching/2023-spring-ESE
+permalink: /teaching/2023-seminar-ESE
 venue: "University of Zurich"
 date: 2023-02-01
 location: "Zurich, Switzerland"

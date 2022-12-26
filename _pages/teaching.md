@@ -17,7 +17,7 @@ author_profile: true
 {% endfor %}
 -->
 
-<b>[Seminar in Empirical Software Engineering](https://poojaruhal.github.io/teaching/2023-spring-ESE)</b> <br>
+<b>[Seminar in Empirical Software Engineering](https://poojaruhal.github.io/teaching/2023-seminar-ESE)</b> <br>
 <b>BSc and MSc course</b>,
 <i>University of Zurich</i>,
 <b>2023</b>.<br>
@@ -66,7 +66,7 @@ More details can be found [Here](http://scg.unibe.ch/teaching/p2) <br>
 * <i>[Developers practices related to Sustainability in Software Systems](https://poojaruhal.github.io/projects/Project-developers-practices-sustainability-software)</i> by
   <b>Veronika</b>
   <b> 2022 </b>
-* 
+
 * <i>[Analysis of Developer Information Needs on Collaborative Platforms](http://scg.unibe.ch/archive/masters/Birr20a.pdf)</i>
 [<i>[Thesis](http://scg.unibe.ch/archive/masters/Birr20a.pdf)</i>] by
 <b>[Mathias Birrer](http://scg.unibe.ch/wiki/alumni/MathiasBirrer)</b>
