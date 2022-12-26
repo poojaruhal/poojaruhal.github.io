@@ -61,10 +61,9 @@ More details can be found [Here](http://scg.unibe.ch/teaching/p2) <br>
 --
 <b> Msc </b>
 
-* <i>[Analysis of Developer Information Needs on Collaborative Platforms](http://scg.unibe.ch/archive/masters/Birr20a.pdf)</i>
-  [<i>[Thesis](http://scg.unibe.ch/archive/masters/Birr20a.pdf)</i>] by
-  <b>[Mathias Birrer](http://scg.unibe.ch/wiki/alumni/MathiasBirrer)</b>
-  <b> 2019-2020 </b>
+* <i>[Developers practices related to Sustainability in Software Systems](https://poojaruhal.github.io/projects/Project-developers-practices-sustainability-software)</i> by
+  <b>Veronika</b>
+  <b> 2022 </b>
 * 
 * <i>[Analysis of Developer Information Needs on Collaborative Platforms](http://scg.unibe.ch/archive/masters/Birr20a.pdf)</i>
 [<i>[Thesis](http://scg.unibe.ch/archive/masters/Birr20a.pdf)</i>] by
@@ -73,6 +72,11 @@ More details can be found [Here](http://scg.unibe.ch/teaching/p2) <br>
 
 -- 
 <b> Bsc </b>
+
+*<i>[Documentation practices of developers in Polyglot environments](https://poojaruhal.github.io/projects/Project-documentation-practices-developers-Polyglot-environments)</i>,
+<i>University of Bern</i>,
+<b> Mohammad Eglil</b>
+<b> 2022 </b>
 
 * <i>[Style Checkers support to comments](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Commenting-conventions-in-style-guidelines-style-checkers)</i>[<i>
 [Thesis](http://scg.unibe.ch/archive/projects/Dool21a.pdf)</i>] by
