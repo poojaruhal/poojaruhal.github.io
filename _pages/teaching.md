@@ -25,12 +25,14 @@ This course explores the research landscape of the empirical software engineerin
 I will organize the course as the main instructor.
 <br>
 
+<!--
 <b>Software Construction</b> <br>
 <b>Undergraduate course</b>,
 <i>University of Zurich</i>,
 <b>2022</b>.<br>
 This course provides an introduction to object-oriented design in Java with an emphasis on practical techniques for developing complex software systems.
 I assisted the course as a help assistant where I was responsible for giving lecture on the exercise part.<br>
+-->
 
 <b>[Seminar in Software Engineering](https://poojaruhal.github.io/teaching/2018-seminar-SE)</b> <br>
 <b>BSc and MSc course</b>,

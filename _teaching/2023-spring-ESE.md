@@ -1,7 +1,7 @@
 ---
 title: "Seminar in Empirical Software Engineering"
 collection: teaching
-type: "Masters course"
+type: "BSc and MSc course"
 permalink: /teaching/2023-spring-ESE
 venue: "University of Zurich"
 date: 2023-02-01
