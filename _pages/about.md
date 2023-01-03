@@ -9,7 +9,7 @@ author_profile: true
   <img src="http://localhost:4000/images/Pooja.JPG?raw=true" alt="Photo" style="width: 250px;"/> 
 </p>
 -->
-I am a postdoctoral researcher in the [Zurich Empirical Software engineering Team
+I am a [postdoctoral researcher](https://www.ifi.uzh.ch/en/zest/people/pooja.html) in the [Zurich Empirical Software engineering Team
 ](https://www.ifi.uzh.ch/en/zest.html) (Prof. Alberto Bacchelli) since Sep, 2022. 
 Previously, I was a postdoctoral researcher in the [Software Engineering Group](https://seg.inf.unibe.ch/) (Prof. Timo Kehrer). I have received my PhD (with honors) in the [Software composition group](http://scg.unibe.ch/) at [University of Bern](https://www.unibe.ch/) under the supervision of [Prof. Oscar Nierstrasz](http://scg.unibe.ch/staff/oscar) and [Dr. Sebastiano Panichella](https://spanichella.github.io/).
 I work on mainly supporting developers in comprehending source code in software maintenance and evolution aspect.
