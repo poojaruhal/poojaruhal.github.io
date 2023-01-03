@@ -58,14 +58,22 @@ This course provides an introduction to object-oriented design in Java with an e
 I instructed the course as a main instructor where I was responsible for hiring help assistants, designing exercise, correcting exercise, and conducting the exam.
 More details can be found [Here](http://scg.unibe.ch/teaching/p2) <br>
 
-<b>Student Supervision</b><br>
-
+<b>Ongoing Student Supervision</b><br>
 --
-<b> Msc </b>
-
 * <i>[Developers practices related to Sustainability in Software Systems](https://poojaruhal.github.io/projects/Project-developers-practices-sustainability-software)</i> by
   <b>Veronika</b>
+  <b> MSC </b>
   <b> 2022 </b>
+--
+* <i>[Documentation practices of developers in Polyglot environments](https://poojaruhal.github.io/projects/Project-documentation-practices-developers-Polyglot-environments)</i>,
+  <i>University of Bern</i>,
+  <b> Mohammad Eglil</b>
+  <b> BSc</b>  
+  <b> 2022 </b>
+
+<b>Student Supervision</b><br>
+--
+<b> Msc </b>
 
 * <i>[Analysis of Developer Information Needs on Collaborative Platforms](http://scg.unibe.ch/archive/masters/Birr20a.pdf)</i>
 [<i>[Thesis](http://scg.unibe.ch/archive/masters/Birr20a.pdf)</i>] by
@@ -74,11 +82,6 @@ More details can be found [Here](http://scg.unibe.ch/teaching/p2) <br>
 
 -- 
 <b> Bsc </b>
-
-*<i>[Documentation practices of developers in Polyglot environments](https://poojaruhal.github.io/projects/Project-documentation-practices-developers-Polyglot-environments)</i>,
-<i>University of Bern</i>,
-<b> Mohammad Eglil</b>
-<b> 2022 </b>
 
 * <i>[Style Checkers support to comments](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Commenting-conventions-in-style-guidelines-style-checkers)</i>[<i>
 [Thesis](http://scg.unibe.ch/archive/projects/Dool21a.pdf)</i>] by
@@ -103,13 +106,11 @@ More details can be found [Here](http://scg.unibe.ch/teaching/p2) <br>
 <b> [Sabine Brunner](http://scg.unibe.ch/wiki/alumni/SabineBrunner)</b>
 <b> 2018 </b>
 
-
 --
 <b> Seminar (short) projects </b>
 
 * <i>[Experimenting deep learning models for comment classification](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/developing_a_tool_to_classify_types_of_information_from_comments/index_eng.html)</i>, 
 <b> 2022 </b>
-
 
 * <i>[Documentation practices of developers in Polyglot environments](https://seg.inf.unibe.ch/teaching/current/seminars-topics-22/)</i>, 
 <b> 2022 </b>
