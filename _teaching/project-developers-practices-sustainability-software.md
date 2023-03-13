@@ -1,7 +1,7 @@
 ---
 title: "Developers practices related to Sustainability in Software Systems"
-collection: projects
-permalink: /projects/project-developers-practices-sustainability-software
+collection: teaching
+permalink: /teaching/project-developers-practices-sustainability-software
 venue: "University of Bern and Zurich, Switzerland"
 date: 2023-02-01
 location: "Zurich, Switzerland"
@@ -23,5 +23,4 @@ In SE, design patterns are a popular concept to reason about design choices, per
 - Make developers aware of the patterns.
 - Conduct a survey to verify if developers that are aware have any impact on their software development process. 
 
-
-Find the first [presenation](https://poojaruhal.github.io/files/Slides-Msc-Investigating-Energy-Related-Practices.pdf) here. 
+Find the first [presenation](https://poojaruhal.github.io/files/Slides-Msc-Investigating-Energy-Related-Practices.pdf) here. <br>

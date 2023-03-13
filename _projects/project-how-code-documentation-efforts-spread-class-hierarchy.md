@@ -3,7 +3,8 @@ title: "How do code documentation efforts spread over class hierarchy?"
 collection: projects
 permalink: /projects/project-how-code-documentation-efforts-spread-class-hierarchy
 venue: "University of Bern, Switzerland"
-date: 2022
+date: 2023-02-01
+location: "Zurich, Switzerland"
 ---
 
 [Presenation](https://poojaruhal.github.io/files/Slides-How-code-documentation-efforts-spread-class-hierarchy.pdf)
@@ -22,4 +23,4 @@ Leaf classes have more examples compared to root classes.
 - Gather information about how classes are documented.
 - Identify at which inheritance level classes are documented often.
 - Design a visualization to present the class documentation hierarchy.
-- Analyze the role of hierarchy in the class documentation.
+- Analyze the role of hierarchy in the class documentation.<br>

@@ -3,7 +3,8 @@ title: "The role of software documentation in Sustainable software engineering p
 collection: projects
 permalink: /projects/project-role-software-documentation-sustainabale-software-engineering
 venue: "University of Bern, Switzerland"
-date: 2022
+date: 2023-02-01
+location: "Zurich, Switzerland"
 ---
 
 [Presenation](https://poojaruhal.github.io/files/Slides-role-software-documentation-sustainabale-software-engineering.pdf)

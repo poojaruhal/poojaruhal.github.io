@@ -3,7 +3,8 @@ title: "Documentation practices of developers in Polyglot environments"
 collection: projects
 permalink: /projects/project-documentation-practices-developers-polyglot-environments
 venue: "University of Bern, Switzerland"
-date: 2022
+date: 2023-02-01
+location: "Zurich, Switzerland"
 ---
 
 [Presenation](https://poojaruhal.github.io/files/Slides-documentation-practices-developers-Polyglot-environments.pdf)
@@ -28,4 +29,4 @@ Such practices create a consistency problem (consistency of comments with style 
 - Evaluate the linter in the real setting.
 
 
-Find the first [presenation](https://poojaruhal.github.io/files/Slides-Msc-Investigating-Energy-Related-Practices.pdf) here. 
+Find the first [presenation](https://poojaruhal.github.io/files/Slides-Msc-Investigating-Energy-Related-Practices.pdf) here. <br>
