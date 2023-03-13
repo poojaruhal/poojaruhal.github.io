@@ -47,7 +47,7 @@ author_profile: true
   <b> Msc</b>  
 <b> 2019-2020 </b>
 
-* <i>[Documentation practices of developers in Polyglot environments](https://poojaruhal.github.io/projects/Project-documentation-practices-developers-Polyglot-environments)</i>,
+* <i>[Documentation practices of developers in Polyglot environments](https://poojaruhal.github.io/projects/project-documentation-practices-developers-Polyglot-environments)</i>,
   <i>University of Bern</i>,
 <b> Mohammad Eglil</b>
 <b> BSc</b>  
@@ -76,7 +76,7 @@ author_profile: true
 
 
 <b> Seminar (short) projects </b>
-* <i>[The role of software documentation in Sustainable software engineering process](https://poojaruhal.github.io/projects/Project-developers-practices-sustainability-software)</i>, 
+* <i>[The role of software documentation in Sustainable software engineering process](https://poojaruhal.github.io/projects/project-developers-practices-sustainability-software)</i>, 
 <b> 2022 </b>
 * <i>[Experimenting deep learning models for comment classification](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/developing_a_tool_to_classify_types_of_information_from_comments/index_eng.html)</i>, 
 <b> 2022 </b>

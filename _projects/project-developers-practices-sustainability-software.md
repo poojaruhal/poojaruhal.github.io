@@ -1,7 +1,7 @@
 ---
 title: "Developers practices related to Sustainability in Software Systems"
 collection: projects
-permalink: /projects/Project-developers-practices-sustainability-software
+permalink: /projects/project-developers-practices-sustainability-software
 venue: "University of Bern and Zurich, Switzerland"
 date: 2022
 ---

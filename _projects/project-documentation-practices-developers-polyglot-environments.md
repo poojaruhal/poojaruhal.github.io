@@ -1,7 +1,7 @@
 ---
 title: "Documentation practices of developers in Polyglot environments"
 collection: projects
-permalink: /projects/Project-documentation-practices-developers-Polyglot-environments
+permalink: /projects/project-documentation-practices-developers-polyglot-environments
 venue: "University of Bern, Switzerland"
 date: 2022
 ---

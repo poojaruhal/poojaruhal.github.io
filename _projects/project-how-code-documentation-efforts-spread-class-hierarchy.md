@@ -1,7 +1,7 @@
 ---
 title: "How do code documentation efforts spread over class hierarchy?"
 collection: projects
-permalink: /projects/Project-How-code-documentation-efforts-spread-class-hierarchy
+permalink: /projects/project-how-code-documentation-efforts-spread-class-hierarchy
 venue: "University of Bern, Switzerland"
 date: 2022
 ---

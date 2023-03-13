@@ -1,7 +1,7 @@
 ---
 title: "The role of software documentation in Sustainable software engineering process"
 collection: projects
-permalink: /projects/Project-role-software-documentation-sustainabale-software-engineering
+permalink: /projects/project-role-software-documentation-sustainabale-software-engineering
 venue: "University of Bern, Switzerland"
 date: 2022
 ---
