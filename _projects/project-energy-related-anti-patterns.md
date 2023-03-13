@@ -1,8 +1,7 @@
 ---
 title: "Comment-related changes in Code Review"
 collection: projects
-type: "MSc topic"
-permalink: /projects//project-comment-changes-code-review
+permalink: /projects/project-energy-related-anti-patterns
 venue: "University of Zurich"
 date: 2023-02-01
 location: "Zurich, Switzerland"
@@ -11,8 +10,6 @@ location: "Zurich, Switzerland"
 ## Context: 
 The intensive use of software in many aspects of industries is becoming more and more common. Including other factors impacting climate, the technology sector also plays a role.
 Therefore, in recent years, software engineering research has attempted to comprehend the energy consumption and implication of the software development process by building various tools and frameworks[1]. However, not all developers are aware of sustainable software, or energy-efficient practices; therefore, energy-related anti-patterns are more common than expected, and eventually, developing green software is still challenging.
-
-
 
 ## Problem:
 This study aims at assessing the impact of various energy-related patterns proposed by Cruz et al.

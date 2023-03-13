@@ -1,7 +1,6 @@
 ---
 title: "Role of code comments in acceptance or rejection of Pull Requests"
 collection: projects
-type: "MSc topic"
 permalink: /projects/project-comments-role-pull-requests
 venue: "University of Zurich"
 date: 2023-02-01

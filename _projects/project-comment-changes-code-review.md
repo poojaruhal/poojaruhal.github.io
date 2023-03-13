@@ -1,7 +1,6 @@
 ---
 title: "Comment-related changes in Code Review"
 collection: projects
-type: "MSc topic"
 permalink: /projects/project-comment-changes-code-review
 venue: "University of Zurich"
 date: 2023-02-01

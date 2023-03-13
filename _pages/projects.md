@@ -7,7 +7,6 @@ author_profile: true
 
 <b>Ongoing Supervision</b><br>
 --
-
 * <b>[Developers practices related to Sustainability in Software Systems](https://poojaruhal.github.io/teaching/project-developers-practices-sustainability-software)</b> by
   <b>Veronika, UniBe,</b>
   <b> MSs, 2022 </b>
@@ -17,10 +16,10 @@ author_profile: true
 * <b>[Do code comments have a role in the acceptance and rejection of PRs](https://poojaruhal.github.io/projects/project-comments-role-pull-requests)</b>,
   <b> Xiong	Li, UZH,</b>
   <b> Msc, 2023</b>
-* <i>[What do comment-related changes developers suggest in the code review phase?](https://poojaruhal.github.io/projects/project-comment-changes-code-review)</i>,
+* <b>[What do comment-related changes developers suggest in the code review phase?](https://poojaruhal.github.io/projects/project-comment-changes-code-review)</b>,
   <b> Mohamed Islem	Mdimagh, UZH,</b>
   <b> Msc, 2023</b>
-* <i>[An empirical assessment of energy-related anti-patterns in web development?](https://poojaruhal.github.io/projects/project-energy-related-anti-patterns)</i>,
+* <b>[An empirical assessment of energy-related anti-patterns in web development?](https://poojaruhal.github.io/projects/project-energy-related-anti-patterns)</b>,
   <b> Jonas	Zellweger, UZH,</b>
   <b> Msc, 2023</b>
 
@@ -29,11 +28,11 @@ author_profile: true
 
 * <i>[Supporting novice developers in finding similar questions on StackOverflow](https://seg.inf.unibe.ch/theses/finished/)</i>
   [<i>[Thesis](https://seg.inf.unibe.ch/theses/finished/)</i>] by
-  <b>Mohammad Lajevardi pour, </b>
+  <b>Mohammad pour, </b>
   <b> Msc, 2022-2023</b>
 * <i>[Analysis of Developer Information Needs on Collaborative Platforms](http://scg.unibe.ch/archive/masters/Birr20a.pdf)</i>
 [<i>[Thesis](http://scg.unibe.ch/archive/masters/Birr20a.pdf)</i>] by
-<b>[Mathias Birrer](http://scg.unibe.ch/wiki/alumni/MathiasBirrer)</b>
+<b>[Mathias Birrer](http://scg.unibe.ch/wiki/alumni/MathiasBirrer),</b>
   <b> Msc, 2019-2020 </b>
 
 * <i>[Style Checkers support to comments](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Commenting-conventions-in-style-guidelines-style-checkers)</i>[<i>[Thesis](http://scg.unibe.ch/archive/projects/Dool21a.pdf)</i>] by
