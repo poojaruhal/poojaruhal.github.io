@@ -3,7 +3,8 @@ title: "Developers practices related to Sustainability in Software Systems"
 collection: projects
 permalink: /projects/project-developers-practices-sustainability-software
 venue: "University of Bern and Zurich, Switzerland"
-date: 2022
+date: 2023-02-01
+location: "Zurich, Switzerland"
 ---
 
 ## ABSTRACT
