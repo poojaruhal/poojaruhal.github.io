@@ -4,18 +4,6 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-<!--
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
 
 <b> Msc </b>
 
@@ -25,13 +13,17 @@ author_profile: true
 [<i>[Thesis](http://scg.unibe.ch/archive/masters/Birr20a.pdf)</i>] by
 <b>[Mathias Birrer](http://scg.unibe.ch/wiki/alumni/MathiasBirrer)</b>
 <b> 2019-2020 </b>
+* <i>[Supporting novice developers in finding similar questions on StackOverflow](https://seg.inf.unibe.ch/theses/finished/)</i>
+  [<i>[Thesis](https://seg.inf.unibe.ch/theses/finished/)</i>] by
+  <b>Mohammad Javad Lajevardi pour </b>
+  <b> 2022-2023 </b>
 
 <b> Bsc </b>
 
 * <i>[Documentation practices of developers in Polyglot environments](https://poojaruhal.github.io/projects/Project-documentation-practices-developers-Polyglot-environments)</i>,
   <i>University of Bern</i>,
 <b> Mohammad Eglil</b>
-<b> 2022 </b>
+<b> 2022-2023 </b>
 * <i>[Style Checkers support to comments](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Commenting-conventions-in-style-guidelines-style-checkers)</i>[<i>
 [Thesis](http://scg.unibe.ch/archive/projects/Dool21a.pdf)</i>] by
 <b>[Michael Dooley](http://scg.unibe.ch/wiki/students/MichaelDooley)</b>

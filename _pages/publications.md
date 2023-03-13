@@ -17,6 +17,11 @@ author_profile: true
 {% endfor %}
 -->
 
+<b>[LEXTREME: A Multi-Lingual and Multi-Task Benchmark for the Legal Domain](https://arxiv.org/abs/2301.13126)</b> <br>
+<b>Joel Niklaus, Veton Matoshi, Pooja Rani, Andrea Galassi, Matthias Stürmer, Ilias Chalkidis </b>,
+<i>arXiv</i>,
+<b>2023</b>.
+
 <b>[A Decade of Code Comment Quality Assessment: A Systematic Literature Review?](https://poojaruhal.github.io/publications/Paper_A_decade_of_code_comment_quality_assessment)</b> <br>
 <b>Pooja Rani, Arianna Blasi, Nataliia Stulova, Sebastiano Panichella, Alessandra Gorla, Oscar Nierstrasz</b>,
 <i>Journal of Systems and Software (JSS)</i>,

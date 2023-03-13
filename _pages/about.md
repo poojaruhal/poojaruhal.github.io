@@ -22,7 +22,7 @@ I graduated with a Master degree (M.E.) in Software System from [Birla Institute
 
 
 ## Recent Updates
-- Received the **best PhD thesis award** in computer science institutes of the University of Bern, Neuchatel, and Fribourg (JAACS) at Bern, Switzerland, 2022
+- Received the **Best PhD Thesis Award** in computer science institutes of the University of Bern, Neuchatel, and Fribourg (JAACS) at Bern, Switzerland, 2022
 - Papers selected in the NIER track in SANER 2023
 - Gave an invited talk at [Women in STEM](https://www.w-stem.org/)
 - Paper accepted in Journal of Systems and Software (JSS), 2022 

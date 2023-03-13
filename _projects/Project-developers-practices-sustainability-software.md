@@ -23,3 +23,4 @@ In SE, design patterns are a popular concept to reason about design choices, per
 - Conduct a survey to verify if developers that are aware have any impact on their software development process. 
 
 
+Find the first [presenation](https://poojaruhal.github.io/files/Slides-Msc-Investigating-Energy-Related-Practices.pdf) here. 

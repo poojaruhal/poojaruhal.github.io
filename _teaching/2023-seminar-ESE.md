@@ -13,16 +13,9 @@ Software engineering (SE) research focuses on various methods to understand and 
 This course explores the research landscape of the empirical software engineering field, and state-of-the- art tools and techniques in it to develop the prototypical tools and techniques for various topics.
 
 At the end of the course, students are able to:
-- read and critically analyze scientific publications
-  on the topic;
-- discuss and use current sophisticated research
-  methods and tools supporting empirical software
-  engineering for the topic;
-- evaluate the benefits/drawbacks of using specific
-  tools & approaches for empirical software
-  engineering;
-- design and develop tool prototypes to extract and
-  analyze required data;
-- give a scientific presentation in terms of
-  structure, level of detail, and presentation
-  techniques.
+- read and critically analyze scientific publications on the topic;
+- discuss and use current sophisticated research methods and tools supporting empirical software engineering for the topic;
+- evaluate the benefits/drawbacks of using specific tools & approaches for empirical software engineering;
+- design and develop tool prototypes to extract and analyze required data;
+- give a scientific presentation in terms of structure, level of detail, and presentation
+  techniques. <br>

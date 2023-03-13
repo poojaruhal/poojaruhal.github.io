@@ -4,26 +4,6 @@ title: "Teaching Activities"
 permalink: /teaching/
 author_profile: true
 ---
-<!--
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
-
-<b>[Seminar in Empirical Software Engineering](https://poojaruhal.github.io/teaching/2023-seminar-ESE)</b> <br>
-<b>BSc and MSc course</b>,
-<i>University of Zurich</i>,
-<b>2023</b>.<br>
-This course explores the research landscape of the empirical software engineering field, and state-of-the- art tools and techniques in it to develop the prototypical tools and techniques for various topics.
-I will organize the course as the main instructor.
-<br>
 
 <!--
 <b>Software Construction</b> <br>
@@ -33,6 +13,14 @@ I will organize the course as the main instructor.
 This course provides an introduction to object-oriented design in Java with an emphasis on practical techniques for developing complex software systems.
 I assisted the course as a help assistant where I was responsible for giving lecture on the exercise part.<br>
 -->
+
+<b>[Seminar in Empirical Software Engineering](https://poojaruhal.github.io/teaching/2023-seminar-ESE)</b> <br>
+<b>BSc and MSc course</b>,
+<i>University of Zurich</i>,
+<b>2023</b>.<br>
+This course explores the research landscape of the empirical software engineering field, and state-of-the- art tools and techniques in it to develop the prototypical tools and techniques for various topics.
+I will organize the course as the main instructor.
+<br>
 
 <b>[Seminar in Software Engineering](https://poojaruhal.github.io/teaching/2018-seminar-SE)</b> <br>
 <b>BSc and MSc course</b>,
@@ -64,17 +52,35 @@ More details can be found [Here](http://scg.unibe.ch/teaching/p2) <br>
   <b>Veronika</b>
   <b> MSC </b>
   <b> 2022 </b>
---
 * <i>[Documentation practices of developers in Polyglot environments](https://poojaruhal.github.io/projects/Project-documentation-practices-developers-Polyglot-environments)</i>,
   <i>University of Bern</i>,
   <b> Mohammad Eglil</b>
   <b> BSc</b>  
   <b> 2022 </b>
+* <i>[Do code comments have a role in the acceptance and rejection of PRs](https://poojaruhal.github.io/projects/Project-comments-role-pull-requests)</i>,
+  <i>University of Zurich</i>,
+  <b> Xiong	Li </b>
+  <b> Msc</b>  
+  <b> 2023 </b>
+* <i>[What do comment-related changes developers suggest in the code review phase?](https://poojaruhal.github.io/projects/Project-comment-changes-code-review)</i>,
+  <i>University of Zurich</i>,
+  <b> Mohamed Islem	Mdimagh </b>
+  <b> Msc</b>  
+  <b> 2023 </b>
+* <i>[An empirical assessment of energy-related anti-patterns in web development?](https://poojaruhal.github.io/projects/Project-energy-related-anti-patterns)</i>,
+  <i>University of Zurich</i>,
+  <b> Jonas	Zellweger </b>
+  <b> Msc</b>  
+  <b> 2023 </b>
 
-<b>Student Supervision</b><br>
+<b>Students Supervised</b><br>
 --
 <b> Msc </b>
 
+* <i>[Supporting novice developers in finding similar questions on StackOverflow](https://seg.inf.unibe.ch/theses/finished/)</i>
+  [<i>[Thesis](https://seg.inf.unibe.ch/theses/finished/)</i>] by
+  <b>Mohammad Javad Lajevardi pour </b>
+  <b> 2022-2023 </b>
 * <i>[Analysis of Developer Information Needs on Collaborative Platforms](http://scg.unibe.ch/archive/masters/Birr20a.pdf)</i>
 [<i>[Thesis](http://scg.unibe.ch/archive/masters/Birr20a.pdf)</i>] by
 <b>[Mathias Birrer](http://scg.unibe.ch/wiki/alumni/MathiasBirrer)</b>

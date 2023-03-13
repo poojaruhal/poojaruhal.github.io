@@ -26,3 +26,6 @@ Such practices create a consistency problem (consistency of comments with style 
 - Learn common patterns of violated/adherence commenting practices of developers.
 - Develop a linter tailored to the background of a developer to handle such violations.
 - Evaluate the linter in the real setting.
+
+
+Find the first [presenation](https://poojaruhal.github.io/files/Slides-Msc-Investigating-Energy-Related-Practices.pdf) here. 

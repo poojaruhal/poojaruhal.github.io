@@ -5,9 +5,6 @@ main:
     
   - title: "Publications"
     url: /publications/
-
-  #- title: "Talks"
-   # url: /talks/    
     
   - title: "CV"
     url: /files/Pooja_Rani.pdf
@@ -17,6 +14,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Theses and Projects"
+    url: /projects/
 
   - title: "Blog"
     url: /blog/
