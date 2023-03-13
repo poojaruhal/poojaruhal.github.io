@@ -1,7 +1,7 @@
 ---
 title: "Comment-related changes in Code Review"
-collection: projects
-permalink: /projects/project-energy-related-anti-patterns
+collection: teaching
+permalink: /teaching/project-energy-related-anti-patterns
 venue: "University of Zurich"
 date: 2023-02-01
 location: "Zurich, Switzerland"

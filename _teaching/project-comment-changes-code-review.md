@@ -1,7 +1,7 @@
 ---
 title: "Comment-related changes in Code Review"
-collection: projects
-permalink: /projects/project-comment-changes-code-review/
+collection: teaching
+permalink: /teaching/project-comment-changes-code-review
 venue: "University of Zurich"
 date: 2023-02-01
 location: "Zurich, Switzerland"

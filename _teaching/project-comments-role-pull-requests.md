@@ -1,7 +1,7 @@
 ---
 title: "Role of code comments in acceptance or rejection of Pull Requests"
-collection: projects
-permalink: /projects/project-comments-role-pull-requests
+collection: teaching
+permalink: /teaching/project-comments-role-pull-requests
 venue: "University of Zurich"
 date: 2023-02-01
 location: "Zurich, Switzerland"
