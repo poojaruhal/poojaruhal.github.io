@@ -14,13 +14,13 @@ author_profile: true
 * <b>[Documentation practices of developers in Polyglot environments](https://poojaruhal.github.io/projects/project-documentation-practices-developers-polyglot-environments)</b>,
   <b> Mohammad Eglil, UniBe</b>
   <b> BSc, 2022</b>
-* <b>[Do code comments have a role in the acceptance and rejection of PRs](https://poojaruhal.github.io/projects/project-comments-role-pull-requests)</b>,
+* <b>[Do code comments have a role in the acceptance and rejection of PRs](https://poojaruhal.github.io/teaching/project-comments-role-pull-requests)</b>,
   <b> Xiong	Li, UZH</b>
   <b> Msc, 2023</b>
-* <i>[What do comment-related changes developers suggest in the code review phase?](https://poojaruhal.github.io/projects/project-comment-changes-code-review)</i>,
+* <i>[What do comment-related changes developers suggest in the code review phase?](https://poojaruhal.github.io/teaching/project-comment-changes-code-review)</i>,
   <b> Mohamed Islem	Mdimagh, UZH</b>
   <b> Msc, 2023</b>
-* <i>[An empirical assessment of energy-related anti-patterns in web development?](https://poojaruhal.github.io/projects/project-energy-related-anti-patterns)</i>,
+* <i>[An empirical assessment of energy-related anti-patterns in web development?](https://poojaruhal.github.io/teaching/project-energy-related-anti-patterns)</i>,
   <b> Jonas	Zellweger, UZH</b>
   <b> Msc, 2023</b>
 
