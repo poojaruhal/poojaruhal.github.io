@@ -25,5 +25,4 @@ Cruz et al. developed a catalog of 22 design patterns related to the energy effi
 1. Pinto et al, Mining Questions about Software Energy Consumption, 2014, https://dl.acm.org/doi/pdf/10.1145/2597073.2597110
 2. Tahir et al., A large scale study on how developers discuss code smells and anti-patterns in Stack Exchange sites, 2020, https://www.sciencedirect.com/science/article/pii/S0950584920300926
 3. Procaccianti et al. 2016, “Empirical evaluation of two best practices for energy-efficient software development” https://doi.org/10.1016/j.jss.2016.02.035
-4. Shanbhag et al. “Onthe Energy Consumption of Different Dataframe Processing Libraries- An Exploratory Study”, https://arxiv.org/pdf/2209.05258.pdf
-<br>
+4. Shanbhag et al. “Onthe Energy Consumption of Different Dataframe Processing Libraries- An Exploratory Study”, https://arxiv.org/pdf/2209.05258.pdf <br>
