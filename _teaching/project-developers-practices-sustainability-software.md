@@ -1,13 +1,14 @@
 ---
 title: "Developers practices related to Sustainability in Software Systems"
 collection: teaching
+type: "MSc thesis"
 permalink: /teaching/project-developers-practices-sustainability-software
 venue: "University of Bern and Zurich, Switzerland"
 date: 2023-02-01
 location: "Zurich, Switzerland"
 ---
 
-## ABSTRACT
+### ABSTRACT
 The intensive use of software in many aspects of industries is becoming more and more common. Including other factors impacting climate, the technology sector also plays a role.
 Therefore, in recent years, software engineering research has attempted to comprehend the energy consumption and implication of the software development process by building various tools and frameworks. However, not all developers are aware of sustainable software, or energy-efficient practices; therefore, developing green software is still a challenge.
 

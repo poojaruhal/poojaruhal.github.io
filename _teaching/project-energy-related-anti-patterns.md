@@ -1,6 +1,7 @@
 ---
-title: "Comment-related changes in Code Review"
+title: "Impact of energy patterns in web applications"
 collection: teaching
+type: "Seminar topic"
 permalink: /teaching/project-energy-related-anti-patterns
 venue: "University of Zurich"
 date: 2023-02-01
