@@ -49,8 +49,7 @@ author_profile: true
   <i> Jonas	Zellweger, UZH,</i>
   <b> Msc, 2023</b>
 * <i>[What do comment-related changes developers suggest in the code review phase?](https://poojaruhal.github.io/teaching/project-comment-changes-code-review)</i>,
-  <i> Mohamed Islem	Mdimagh, UZH,</i>
-  <b> Msc, 2023</b>
+  <b> UZH, 2023</b>
 * <i>[The role of software documentation in Sustainable software engineering process](https://poojaruhal.github.io/teaching/project-developers-practices-sustainability-software)</i>, 
 <b> 2022 </b>
 * <i>[Experimenting deep learning models for comment classification](https://www.digitale-nachhaltigkeit.unibe.ch/studies/bachelor_s__and_master_s_theses_at_inf/natural_language_processing/developing_a_tool_to_classify_types_of_information_from_comments/index_eng.html)</i>, 
