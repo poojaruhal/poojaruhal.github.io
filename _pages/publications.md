@@ -19,7 +19,17 @@ author_profile: true
 
 <b>[LEXTREME: A Multi-Lingual and Multi-Task Benchmark for the Legal Domain](https://arxiv.org/abs/2301.13126)</b> <br>
 <b>Joel Niklaus, Veton Matoshi, Pooja Rani, Andrea Galassi, Matthias Stürmer, Ilias Chalkidis </b>,
-<i>arXiv</i>,
+<i>Accepted at Findings of EMNLP</i>,
+<b>2023</b>.
+
+<b>[Variable Discovery with Large Language Models for Metamorphic Testing of Scientific Software](https://link.springer.com/chapter/10.1007/978-3-031-35995-8_23)</b> <br>
+<b>Christos Tsigkanos, Pooja Rani, Sebastian Müller, Timo Kehrer </b>,
+<i>International Conference on Computational Science (ICCS)</i>,
+<b>2023</b>.
+
+<b>[Large Language Models: The Next Frontier for Variable Discovery within Metamorphic Testing?](https://ieeexplore.ieee.org/abstract/document/10123585/)</b> <br>
+<b>Christos Tsigkanos, Pooja Rani, Sebastian Müller, Timo Kehrer </b>,
+<i>International Conference on Software Analysis, Evolution and Reengineering (SANER)</i>,
 <b>2023</b>.
 
 <b>[A Decade of Code Comment Quality Assessment: A Systematic Literature Review?](https://poojaruhal.github.io/publications/Paper_A_decade_of_code_comment_quality_assessment)</b> <br>

@@ -16,7 +16,19 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
-<b>[Christos Tsigkanos](https://seg.inf.unibe.ch/christos/)</b> <br>
+<b>[Luis Cruz](https://luiscruz.github.io/)</b> <br>
+<i> TU Delft, Netherlands</i>,
+<b>2022-Today</b>.
+
+<b>[Alberto Bacchelli](https://sback.it/)</b> <br>
+<i> University of Zurich, Switzerland</i>,
+<b>2022-Today</b>.
+
+<b>[Francesco Sovrano](https://www.ifi.uzh.ch/en/zest/team/francesco_sovrano.html)</b> <br>
+<i> University of Zurich, Switzerland</i>,
+<b>2022-Today</b>.
+
+<b>[Christos Tsigkanos](https://christos.tsigkanos.net/)</b> <br>
 <i> University of Athens, Greece</i>,
 <b>2022-Today</b>.
 
