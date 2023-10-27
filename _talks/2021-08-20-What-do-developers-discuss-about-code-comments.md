@@ -8,7 +8,7 @@ date: 2021-08-20
 location: "Virtual conference"
 ---
 
-[More information here](https://poojaruhal.github.io/files/Slides-What-do-developers-discuss-about-code-comments.pdf)
+[Slides](https://poojaruhal.github.io/files/Slides-What-do-developers-discuss-about-code-comments.pdf)
 
 [Online](https://www.slideshare.net/PoojaRuhal/what-do-developers-discuss-about-code-comments)
 

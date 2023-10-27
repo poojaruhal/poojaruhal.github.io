@@ -8,7 +8,7 @@ date: 2022-08-25
 location: "Novi Sad, Serbia"
 ---
 
-[More information here](https://poojaruhal.github.io/files/Slides-Can-we-automatically-generate-class-comments-in-Pharo.pdf)
+[Slides](https://poojaruhal.github.io/files/Slides-Can-we-automatically-generate-class-comments-in-Pharo.pdf)
 
 [Online](https://www.slideshare.net/PoojaRuhal/can-we-automatically-generate-class-comments-in-pharo-252697644)
 

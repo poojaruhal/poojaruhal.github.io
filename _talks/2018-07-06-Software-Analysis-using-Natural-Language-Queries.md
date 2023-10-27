@@ -8,7 +8,7 @@ date: 2018-07-06
 location: "Athens, Greece"
 ---
 
-[More information here](https://poojaruhal.github.io/files/Slides-Software-Analysis-using-Natural-Language-Queries.pdf)
+[Slides](https://poojaruhal.github.io/files/Slides-Software-Analysis-using-Natural-Language-Queries.pdf)
 
 [Online](https://www.slideshare.net/PoojaRuhal/let-your-questions-guide-the-software-analysis)
 
