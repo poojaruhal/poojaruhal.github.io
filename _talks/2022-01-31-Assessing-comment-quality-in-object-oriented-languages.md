@@ -8,7 +8,7 @@ date: 2022-01-31
 location: "University of Bern, Switzerland"
 ---
 
-[More information here](https://poojaruhal.github.io/files/Slides-Assessing-comment-quality-in-object-oriented-languages.pdf)
+[Slides](https://poojaruhal.github.io/files/Slides-Assessing-comment-quality-in-object-oriented-languages.pdf)
 
 [Online](https://www.slideshare.net/PoojaRuhal/phd-defense-presenation)
 

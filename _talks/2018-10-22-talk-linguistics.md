@@ -8,7 +8,7 @@ date: 2018-10-22
 location: "Les Diablerets, Switzerland"
 ---
 
-[More information here](https://poojaruhal.github.io/files/Slides-Let-Linguistics-guide-software-analysis.pdf)
+[Slides](https://poojaruhal.github.io/files/Slides-Let-Linguistics-guide-software-analysis.pdf)
 
 [Online](https://www.slideshare.net/PoojaRuhal/let-linguistics-guide-software-analysis)
 

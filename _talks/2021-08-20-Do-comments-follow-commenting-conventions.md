@@ -8,7 +8,7 @@ date: 2021-08-20
 location: "Virtual conference"
 ---
 
-[More information here](https://poojaruhal.github.io/files/Slides-Do-comments-follow-commenting-conventions.pdf)
+[Slides](https://poojaruhal.github.io/files/Slides-Do-comments-follow-commenting-conventions.pdf)
 
 [Online](https://www.slideshare.net/PoojaRuhal/do-comments-follow-commenting-conventions)
 

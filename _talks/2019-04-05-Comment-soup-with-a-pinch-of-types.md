@@ -8,7 +8,7 @@ date: 2019-04-05
 location: "Lille, France"
 ---
 
-[More information here](https://poojaruhal.github.io/files/Slides-Comment-soup-with-a-pinch-of-types.pdf)
+[Slides](https://poojaruhal.github.io/files/Slides-Comment-soup-with-a-pinch-of-types.pdf)
 
 [Online](https://www.slideshare.net/PoojaRuhal/comment-soup-with-a-pinch-of-types)
 

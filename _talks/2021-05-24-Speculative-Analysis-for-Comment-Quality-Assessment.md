@@ -8,7 +8,7 @@ date: 2021-05-24
 location: "Virtual conference"
 ---
 
-[More information here](https://poojaruhal.github.io/files/Slides-Speculative-Analysis-for-Comment-Quality-Assessment.pdf)
+[Slides](https://poojaruhal.github.io/files/Slides-Speculative-Analysis-for-Comment-Quality-Assessment.pdf)
 
 [Online](https://www.slideshare.net/PoojaRuhal/speculative-analysis-for-comment-quality-assessment)
 

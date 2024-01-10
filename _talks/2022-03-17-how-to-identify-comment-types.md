@@ -8,7 +8,7 @@ date: 2022-03-17
 location: "Virtual conference"
 ---
 
-[More information here](https://poojaruhal.github.io/files/Slides-how-to-identify-class-comments.pdf)
+[Slides](https://poojaruhal.github.io/files/Slides-how-to-identify-class-comments.pdf)
 
 [Online](https://www.slideshare.net/PoojaRuhal/how-to-identify-class-comment-types-a-multilanguage-approach-for-class-comment-classification-251369979)
 
