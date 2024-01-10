@@ -21,6 +21,7 @@ I graduated with a Master degree (M.E.) in Software System from [Birla Institute
 
 
 ## Recent Updates
+- Paper accepted in ICSE 2024 in the SEIS track.
 - Paper accepted in Findings at EMNLP 2023
 - Gave an invited talk at University of Konstanz, 2023
 - Paper accepted in ICCS 2023
