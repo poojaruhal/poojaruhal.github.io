@@ -16,6 +16,9 @@ Therefore, in recent years, software engineering research has attempted to compr
 This study aims at assessing the impact of various energy-related patterns proposed by Cruz et al.
 Cruz et al. developed a catalog of 22 design patterns related to the energy efficiency of mobile apps.   Some patterns are applicable in Web development as well. We find the anti-patterns that consume more energy than others. We assess their impact on selected open-source projects[2][3]. We also design a pilot study to understand the strategies that can be adopted to avoid them.
 
+## Related Publication
+[Online](https://poojaruhal.github.io/files/Paper-Energy-patterns-on-Web.pdf)
+
 ## Steps:
 -  Study the 22 energy patterns. 
 - Identify the tools (e.g., Intel’s Running Average Power Limit (RAPL) interface) to measure the impact of the patterns in open-source web applications[4]. 

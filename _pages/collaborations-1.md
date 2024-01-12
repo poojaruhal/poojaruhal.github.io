@@ -20,6 +20,14 @@ author_profile: true
 <i> TU Delft, Netherlands</i>,
 <b>2022-Today</b>.
 
+<b>[June Sallou](https://jnsll.github.io/)</b> <br>
+<i> TU Delft, Netherlands</i>,
+<b>2023-Today</b>.
+
+<b>[Margaret-Anne Storey](https://www.margaretstorey.com/)</b> <br>
+<i> University of Victoria, Canada</i>,
+<b>2023</b>.
+
 <b>[Alberto Bacchelli](https://sback.it/)</b> <br>
 <i> University of Zurich, Switzerland</i>,
 <b>2022-Today</b>.

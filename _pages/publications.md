@@ -16,6 +16,18 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
+<b>[Energy Patterns for Web: An Exploratory Study](https://poojaruhal.github.io/files/Paper-Energy-patterns-on-Web.pdf)</b> <br>
+<b>Pooja Rani, Jonas Zellweger, Veronika Kousadianos, Luis Cruz, Timo Kehrer, Alberto Bacchelli
+ </b>,
+<i>ICSE</i>,
+<b>2024</b>.
+
+<b>[Beyond Code: Is There a Difference between Comments in Visual and Textual Languages?](https://dx.doi.org/10.2139/ssrn.4650661)</b> <br>
+<b>Alexander Boll, Pooja Rani, Alexander Schultheiss, Timo Kehrer
+ </b>,
+<i>Under Review</i>,
+<b>2023</b>.
+
 
 <b>[LEXTREME: A Multi-Lingual and Multi-Task Benchmark for the Legal Domain](https://arxiv.org/abs/2301.13126)</b> <br>
 <b>Joel Niklaus, Veton Matoshi, Pooja Rani, Andrea Galassi, Matthias Stürmer, Ilias Chalkidis </b>,
