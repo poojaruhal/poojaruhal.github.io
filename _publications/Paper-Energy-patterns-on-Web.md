@@ -7,6 +7,7 @@ date: 2024-04-15
 ---
 
 [Paper](https://poojaruhal.github.io/files/Paper-Energy-patterns-on-Web.pdf),
+[Arxiv](https://arxiv.org/abs/2401.06482)
 [Data](https://doi.org/10.5281/zenodo.8404487),
 
 ## ABSTRACT
