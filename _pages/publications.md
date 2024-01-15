@@ -19,12 +19,11 @@ author_profile: true
 <b>[Energy Patterns for Web: An Exploratory Study](https://poojaruhal.github.io/publications/Paper-Energy-patterns-on-Web)</b> <br>
 <b>Pooja Rani, Jonas Zellweger, Veronika Kousadianos, Luis Cruz, Timo Kehrer, Alberto Bacchelli
  </b>,
-<i>ICSE</i>,
+<i>ICSE in SEIS (Society track)</i>,
 <b>2024</b>.
 
 <b>[Beyond Code: Is There a Difference between Comments in Visual and Textual Languages?](https://poojaruhal.github.io/publications/Paper-Beyond-Code-Difference-between-Comments-in-Visual-Textual-Languages)</b> <br>
-<b>Alexander Boll, Pooja Rani, Alexander Schultheiss, Timo Kehrer
- </b>,
+<b>Alexander Boll, Pooja Rani, Alexander Schultheiss, Timo Kehrer</b>,
 <i>Under Review</i>,
 <b>2023</b>.
 
