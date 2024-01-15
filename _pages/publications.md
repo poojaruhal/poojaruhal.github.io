@@ -16,8 +16,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
-<b>[Energy Patterns for Web: An Exploratory Study](https://poojaruhal.github.io/publications/
-Paper-Energy-patterns-on-Web)</b> <br>
+<b>[Energy Patterns for Web: An Exploratory Study](https://poojaruhal.github.io/publications/Paper-Energy-patterns-on-Web)</b> <br>
 <b>Pooja Rani, Jonas Zellweger, Veronika Kousadianos, Luis Cruz, Timo Kehrer, Alberto Bacchelli
  </b>,
 <i>ICSE</i>,
