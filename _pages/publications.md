@@ -21,7 +21,7 @@ author_profile: true
 <i>Under Review</i>,
 <b>2024</b>.
 
-<b>[Energy Patterns for Web: An Exploratory Study](https://poojaruhal.github.io/publications/Paper-Energy-patterns-on-Web)</b> <br>
+<b>[Energy Patterns for Web: An Exploratory Study](https://poojaruhal.github.io/publications/Paper-Energy-Patterns-on-Web)</b> <br>
 <b>Pooja Rani, Jonas Zellweger, Veronika Kousadianos, Luis Cruz, Timo Kehrer, Alberto Bacchelli
  </b>,
 <i>ICSE in SEIS (Society track)</i>,
