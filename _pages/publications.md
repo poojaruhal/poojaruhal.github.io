@@ -16,15 +16,21 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
-<b>[Beyond Code: Is There a Difference between Comments in Visual and Textual Languages?](https://poojaruhal.github.io/publications/Paper-Beyond-Code-Difference-between-Comments-in-Visual-Textual-Languages)</b> <br>
-<b>Alexander Boll, Pooja Rani, Alexander Schultheiss, Timo Kehrer</b>,
-<i>Under Review</i>,
+<b>[Does Simulation-based Testing for Self-driving Cars match Human  Perception?](https://poojaruhal.github.io/publications/Simulation-Based-Testing-Self-Driving-Cars)</b> <br>
+<b>Christian Birchler, Tanzil Kombarabettu Mohammed, Pooja Rani, Teodora Nechita, Timo Kehrer, Sebastiano Panichella
+ </b>,
+<i>FSE</i>,
 <b>2024</b>.
 
 <b>[Energy Patterns for Web: An Exploratory Study](https://arxiv.org/abs/2401.06482)</b> <br>
 <b>Pooja Rani, Jonas Zellweger, Veronika Kousadianos, Luis Cruz, Timo Kehrer, Alberto Bacchelli
  </b>,
 <i>ICSE in SEIS (Society track)</i>,
+<b>2024</b>.
+
+<b>[Beyond Code: Is There a Difference between Comments in Visual and Textual Languages?](https://poojaruhal.github.io/publications/Paper-Beyond-Code-Difference-between-Comments-in-Visual-Textual-Languages)</b> <br>
+<b>Alexander Boll, Pooja Rani, Alexander Schultheiss, Timo Kehrer</b>,
+<i>Under Review</i>,
 <b>2024</b>.
 
 <b>[LEXTREME: A Multi-Lingual and Multi-Task Benchmark for the Legal Domain](https://poojaruhal.github.io/publications/Paper-LEXTREME-Multi-Lingual-Multi-Task-Benchmark-for-Legal)</b> <br>
