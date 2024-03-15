@@ -7,14 +7,18 @@ author_profile: true
 
 <b>Ongoing Supervision</b><br>
 --
-* <b>[Documentation practices of developers in Polyglot environments](https://poojaruhal.github.io/teaching/project-documentation-practices-developers-polyglot-environments)</b>,
-  <b> Mohammad Eglil, UniBe,</b>
-  <b> BSc, 2022</b>
-
-
+* <b>[Why developers write code comments]()</b>,
+  <b> Najma Christen, UZH,</b>
+  <b> MSc, 2024</b>
+* <b>[Analyzing and Mitigating Energy Anti-patterns: Insights from Mozilla]()</b>,
+  <b> Shiran Sun, UZH,</b>
+  <b> MSc, 2024</b>
 
 <b> Finished projects </b>
 ---
+* <b>[Commenting practices of polyglot developers](https://poojaruhal.github.io/teaching/project-documentation-practices-developers-polyglot-environments)</b>,
+  <b> Mohammad Eglil, UniBe,</b>
+  <b> BSc, 2024</b>
 * <b>[Developers practices related to Sustainability in Software Systems](https://poojaruhal.github.io/teaching/project-developers-practices-sustainability-software)</b> by
   <b>Veronika, UniBe,</b>
   <b> MSs, 2022 </b>
