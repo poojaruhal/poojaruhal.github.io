@@ -7,10 +7,10 @@ author_profile: true
 
 <b>Ongoing Supervision</b><br>
 --
-* <b>[Why developers write code comments]()</b>,
+* <b>[Why developers write code comments](https://poojaruhal.github.io/teaching/project-code-comments-worthwhile)</b>,
   <b> Najma Christen, UZH,</b>
   <b> MSc, 2024</b>
-* <b>[Analyzing and Mitigating Energy Anti-patterns: Insights from Mozilla]()</b>,
+* <b>[Analyzing and Mitigating Energy Anti-patterns: Insights from Mozilla](https://poojaruhal.github.io/teaching/project-energy-related-anti-patterns)</b>,
   <b> Shiran Sun, UZH,</b>
   <b> MSc, 2024</b>
 
@@ -49,8 +49,17 @@ author_profile: true
 
 <b> Seminar (short) projects </b>
 ---
+* <i>[Software sustainability guidelines at UZH](https://poojaruhal.github.io/teaching/project-software-sustainability-guidelines-uzh)</i>,
+  <i> Lloyd Heimgartner, UZH,</i>
+  <b> Msc, 2024</b>
+* <i>[Impact of code comments on writing code comments](https://poojaruhal.github.io/teaching/project-code-smells-writing-comments)</i>,
+  <i> Dimitri Degkwitz, UZH,</i>
+  <b> Msc, 2024</b>
+* <i>[Style Checkers support to comments](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Commenting-conventions-in-style-guidelines-style-checkers)</i>[<i>[Thesis](http://scg.unibe.ch/archive/projects/Dool21a.pdf)</i>] by
+<b>Isabella Chesney, UZH</b>
+<b> BSc, 2024 </b>
 * <i>[An empirical assessment of energy-related anti-patterns in web development?](https://poojaruhal.github.io/teaching/project-energy-related-anti-patterns)</i>,
-  <i> Jonas	Zellweger, UZH,</i>
+  <i> Jonas Zellweger, UZH,</i>
   <b> Msc, 2023</b>
 * <i>[What do comment-related changes developers suggest in the code review phase?](https://poojaruhal.github.io/teaching/project-comment-changes-code-review)</i>,
   <b> UZH, 2023</b>
