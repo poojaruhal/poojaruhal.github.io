@@ -1,4 +1,4 @@
----
+_pages/teaching.md ---
 layout: archive
 title: "Teaching Activities"
 permalink: /teaching/
@@ -17,7 +17,7 @@ I assisted the course as a help assistant where I was responsible for giving lec
 <b>[Seminar in Empirical Software Engineering](https://poojaruhal.github.io/teaching/2023-seminar-ESE)</b> <br>
 <b>BSc and MSc course</b>,
 <i>University of Zurich</i>,
-<b>2023</b>.<br>
+<b>2023, 2024</b>.<br>
 This course explores the research landscape of the empirical software engineering field, and state-of-the- art tools and techniques in it to develop the prototypical tools and techniques for various topics.
 I will organize the course as the main instructor.
 <br>

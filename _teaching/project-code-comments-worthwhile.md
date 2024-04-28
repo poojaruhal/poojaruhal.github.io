@@ -1,5 +1,5 @@
 ---
-title: "Factors behind writing code comments"
+title: "Why developers write code comments?"
 collection: teaching
 type: "MSc"
 permalink: /teaching/project-code-comments-worthwhile
@@ -16,11 +16,9 @@ On the other hand, developers find comments outdated, misleading, and often inco
 Begel and Zimmermann conducted a survey to understand the challenges in their development practices and highlighted the question, “When are code comments worth the effort to write them?” [2]. There are various factors that make developers add comments to their code [1]. For example, the complexity of a file might cause developers to add comments to it, or experienced developers can favor adding comments more than novice ones? 
 
 ## Aim
-We aim to find similar factors that can play a role in comment writing [1]. 
+We aim to find varoius factors that can play a role in comment writing [1].
 
-When developers find code comments worth the effort to write them?
-
-## Steps: 
+## Steps 
 - Identify the factors that can play a role in the tendency of writing or not writing comments. The factors can be identified by conducting a brief literature review.
 - Mine open-source projects from GitHub. (we already have a dataset for Java and Python developers from https://bitbucket.org/swsc/overview/src/master/).
 - Extract various metrics from them, such as developers' experience, profile, programming language, and comments. 

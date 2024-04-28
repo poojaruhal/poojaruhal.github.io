@@ -1,5 +1,5 @@
 ---
-title: "Impact of code comments on writing code comments"
+title: "Impact of code smells on writing code comments"
 collection: teaching
 type: "Seminar"
 permalink: /teaching/project-code-smells-writing-comments
@@ -16,7 +16,7 @@ Begel and Zimmermann conducted a survey to understand the challenges in their de
 Code smells indicate the complexity of code and various design issues that code can have. 
 
 ## Aim
-We aim to find similar code smells that can play a role in comment writing.
+We aim to find the impact of various code smells that can play a role in writing comments.
 
 ## Steps: 
 - Identify the smells that can play a role in the tendency of writing or not writing comments. The smells can be identified by conducting a brief literature review.

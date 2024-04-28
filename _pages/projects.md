@@ -55,7 +55,7 @@ author_profile: true
 * <i>[Impact of code comments on writing code comments](https://poojaruhal.github.io/teaching/project-code-smells-writing-comments)</i>,
   <i> Dimitri Degkwitz, UZH,</i>
   <b> Msc, 2024</b>
-* <i>[Style Checkers support to comments](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Commenting-conventions-in-style-guidelines-style-checkers)</i>[<i>[Thesis](http://scg.unibe.ch/archive/projects/Dool21a.pdf)</i>] by
+* <i>[Style Checkers support to comments](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Commenting-conventions-in-style-guidelines-style-checkers),</i><i>,[Related Thesis](http://scg.unibe.ch/archive/projects/Dool21a.pdf)</i>] by
 <b>Isabella Chesney, UZH</b>
 <b> BSc, 2024 </b>
 * <i>[An empirical assessment of energy-related anti-patterns in web development?](https://poojaruhal.github.io/teaching/project-energy-related-anti-patterns)</i>,
