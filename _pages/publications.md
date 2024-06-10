@@ -1,4 +1,4 @@
----
+_pages/publications.md---
 layout: archive
 title: "Publications"
 permalink: /publications/
@@ -16,6 +16,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
+<b>[On Refining the SZZ Algorithm with Bug Discussion Data](https://poojaruhal.github.io/publications/Paper-On-Refining-SZZ-Algorithm)</b> <br>
+<b>Pooja Rani, Fernando Petrulio,Alberto Bacchelli
+</b>,
+<i>EMSE</i>,
+<b>2024</b>.
+
 <b>[Does Simulation-based Testing for Self-driving Cars match Human  Perception?](https://poojaruhal.github.io/publications/Simulation-Based-Testing-Self-Driving-Cars)</b> <br>
 <b>Christian Birchler, Tanzil Kombarabettu Mohammed, Pooja Rani, Teodora Nechita, Timo Kehrer, Sebastiano Panichella
  </b>,
