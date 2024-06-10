@@ -1,4 +1,4 @@
-_pages/publications.md---
+---
 layout: archive
 title: "Publications"
 permalink: /publications/
@@ -16,6 +16,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
+
 <b>[On Refining the SZZ Algorithm with Bug Discussion Data](https://poojaruhal.github.io/publications/Paper-On-Refining-SZZ-Algorithm)</b> <br>
 <b>Pooja Rani, Fernando Petrulio,Alberto Bacchelli
 </b>,
