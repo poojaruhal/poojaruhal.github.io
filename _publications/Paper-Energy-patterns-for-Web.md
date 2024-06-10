@@ -1,7 +1,7 @@
 ---
 title: "Energy Patterns for Web: An Exploratory Study"
 collection: publications
-permalink: /publications/Paper-What-do-developers-discuss-about-code-comments
+permalink: /publications/Paper-Energy-Patterns-on-Web
 venue: "International Conference on Software Engineering, 2024"
 date: 2024-04-16
 location: "Lisbon, Portugal"
