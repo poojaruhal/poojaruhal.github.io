@@ -21,14 +21,12 @@ I graduated with a Master degree (M.E.) in Software System from [Birla Institute
 
 
 ## Recent Updates
+- Gave a talk at University of Wageningen University & Research, 2024
+- Gave a talk at University of Darmstadt, 2024
 - Journal-first article accepted in EMSE, 2024
-- Paper accepted in FSE 2024
-- Paper accepted in ICSE 2024 in the SEIS track
+- Paper accepted in FSE, ICSE 2024
 - Paper accepted in Findings at EMNLP 2023
 - Gave an invited talk at University of Konstanz, 2023
 - Received the **Distinguished Reviewer Award** at MSR, 2023
-- Received the **Distinguished Service Award** at NLBSE, 2023
-- Paper accepted in ICCS 2023
 - Received the **Best PhD Thesis Award** in computer science institutes of the University of Bern, Neuchatel, and Fribourg (JAACS) at Bern, Switzerland, 2022
 - Gave an invited talk at [Women in STEM](https://www.w-stem.org/), 2022
-- Received the **Best Paper Award** at IWST, 2022
