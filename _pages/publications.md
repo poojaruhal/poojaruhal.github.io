@@ -29,7 +29,7 @@ author_profile: true
 <i>FSE</i>,
 <b>2024</b>.
 
-<b>[Energy Patterns for Web: An Exploratory Study](https://poojaruhal.github.io/publications/Paper-Energy-patterns-for-Web)</b> <br>
+<b>[Energy Patterns for Web: An Exploratory Study](https://poojaruhal.github.io/publications/Paper-On-Web-Energy-Patterns)</b><br>
 <b>Pooja Rani, Jonas Zellweger, Veronika Kousadianos, Luis Cruz, Timo Kehrer, Alberto Bacchelli
  </b>,
 <i>ICSE in SEIS (Society track)</i>,
@@ -37,7 +37,7 @@ author_profile: true
 
 <b>[Beyond Code: Is There a Difference between Comments in Visual and Textual Languages?](https://poojaruhal.github.io/publications/Paper-Beyond-Code-Difference-between-Comments-in-Visual-Textual-Languages)</b> <br>
 <b>Alexander Boll, Pooja Rani, Alexander Schultheiss, Timo Kehrer</b>,
-<i>Under Review</i>,
+<i>Journal of Systems and Software (JSS)</i>,
 <b>2024</b>.
 
 <b>[LEXTREME: A Multi-Lingual and Multi-Task Benchmark for the Legal Domain](https://poojaruhal.github.io/publications/Paper-LEXTREME-Multi-Lingual-Multi-Task-Benchmark-for-Legal)</b> <br>
