@@ -1,9 +1,16 @@
-_pages/teaching.md ---
+---
 layout: archive
 title: "Teaching Activities"
 permalink: /teaching/
 author_profile: true
 ---
+
+<b>[Advanced Software Engineering](https://www.ifi.uzh.ch/en/seal/teaching/courses/ase.html)</b> <br>
+<b>MSc course</b>,
+<i>University of Zurich</i>,
+<b> 2025 (Under prepration)</b>.<br>
+This course deepens students' knowledge about advanced software engineering practices. The lectures will be complemented by a development team project, which enables active learning during the lecture and a realistic use case that serves as an example to support the preparation before and after the lecture. At the end of the course, the students will present their projects. Students will be graded in three parts: the team project, individual report, and final exam.
+<br>
 
 <!--
 <b>Software Construction</b> <br>
