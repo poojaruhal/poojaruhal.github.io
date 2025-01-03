@@ -7,15 +7,17 @@ author_profile: true
 
 <b>Ongoing Supervision</b><br>
 --
+* <i>[Adherence of comments to the style guidelines](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Adherence-of-class-comments-style-guidelines)</i>,
+  <b> BSc, UZH, 2025 </b>
+
+<b> Finished projects </b>
+---
 * <b>[Why developers write code comments](https://poojaruhal.github.io/teaching/project-code-comments-worthwhile)</b>,
   <b> Najma Christen, UZH,</b>
   <b> MSc, 2024</b>
 * <b>[Analyzing and Mitigating Energy Anti-patterns: Insights from Mozilla](https://poojaruhal.github.io/teaching/project-energy-related-anti-patterns)</b>,
   <b> Shiran Sun, UZH,</b>
   <b> MSc, 2024</b>
-
-<b> Finished projects </b>
----
 * <b>[Commenting practices of polyglot developers](https://poojaruhal.github.io/teaching/project-documentation-practices-developers-polyglot-environments)</b>,
   <b> Mohammad Eglil, UniBe,</b>
   <b> BSc, 2024</b>
@@ -30,7 +32,6 @@ author_profile: true
 [<i>[Thesis](http://scg.unibe.ch/archive/masters/Birr20a.pdf)</i>] by
 <b>[Mathias Birrer](http://scg.unibe.ch/wiki/alumni/MathiasBirrer),</b>
   <b> Msc, 2019-2020 </b>
-
 * <i>[Style Checkers support to comments](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Commenting-conventions-in-style-guidelines-style-checkers)</i>[<i>[Thesis](http://scg.unibe.ch/archive/projects/Dool21a.pdf)</i>] by
 <b>[Michael Dooley](http://scg.unibe.ch/wiki/students/MichaelDooley)</b>
 <b> BSc, UniBe, 2021 </b>
