@@ -9,9 +9,8 @@ author_profile: true
   <img src="http://localhost:4000/images/Pooja.JPG?raw=true" alt="Photo" style="width: 250px;"/> 
 </p>
 -->
-I am currently an [Oberassistant](https://www.ifi.uzh.ch/en/seal.html) (Senior Research Associate) at [University of Zurich](https://www.uzh.ch/en.html), working with [Prof. Harald Gall](https://www.ifi.uzh.ch/en/seal/people/gall.html). 
+I am currently a [Senior Researcher](https://www.ifi.uzh.ch/en/seal/people/rani.html) at [University of Zurich](https://www.uzh.ch/en.html), working with [Prof. Harald Gall](https://www.ifi.uzh.ch/en/seal/people/gall.html). 
 As a researcher, my work emphasizes developing sustainable software solutions and equipping developers with tools to minimize environmental impact and enhance long-term viability of software systems. 
-
 
 Previously, I worked as a 
 [senior researcher](https://www.ifi.uzh.ch/en/zest/people/pooja.html) with [Prof. Alberto Bacchelli](https://sback.it/), and as a [postdoctoral researcher](https://seg.inf.unibe.ch/team/) with [Prof. Timo Kehrer](https://seg.inf.unibe.ch/people/timo/).
