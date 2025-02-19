@@ -22,6 +22,7 @@ I can say that I have witnessed the instances of real software engineering chall
 
 
 ## Recent Updates
+- Papers accepted in FSE & ICPC 2025
 - Gave a talk at the University of Mannheim, 2024
 - Gave a talk at the Eindhoven University of Technology, 2024
 - Gave a talk at University of Wageningen University & Research, 2024

@@ -17,6 +17,18 @@ author_profile: true
 {% endfor %}
 -->
 
+<b>[Code Review Comprehension: Reviewing Strategies Seen Through  Code Comprehension Theories](https://poojaruhal.github.io/publications/Paper-Code-review-strategies)</b> <br>
+<b>Pavlina Wurzel Goncalves, Pooja Rani, Margaret-Anne "Peggy" Storey, Diomidis Spinellis, Alberto Bacchelli
+</b>,
+<i>International Conference on Program Comprehension (ICPC)</i>,
+<b>2025</b>.
+
+<b>[Empirically Evaluating the Impact of Object-Centric Breakpoints on the Debugging of Object-Oriented Programs](https://poojaruhal.github.io/publications/Paper-Object-centric-debugging-points)</b> <br>
+<b>Valentin Bourcier, Pooja Rani, Maximilian Ignacio,Alberto Bacchelli, Steven Costiou
+</b>,
+<i> Foundations of Software Engineering (FSE)</i>,
+<b>2025</b>.
+
 <b>[On Refining the SZZ Algorithm with Bug Discussion Data](https://poojaruhal.github.io/publications/Paper-On-Refining-SZZ-Algorithm)</b> <br>
 <b>Pooja Rani, Fernando Petrulio,Alberto Bacchelli
 </b>,

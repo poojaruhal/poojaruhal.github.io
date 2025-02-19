@@ -21,8 +21,16 @@ author_profile: true
 <b>2022-Today</b>.
 
 <b>[June Sallou](https://jnsll.github.io/)</b> <br>
-<i> TU Delft, Netherlands</i>,
+<i> Wageningen University and Research, Netherlands</i>,
 <b>2023-Today</b>.
+
+<b>[Steven Costiou](https://scholar.google.com/citations?hl=fr&user=KLPmm0gAAAAJ&view_op=list_works&sortby=pubdate)</b> <br>
+<i> RMoD Inria, France</i>,
+<b>2024--today</b>.
+
+<b>[Valentin Bourcier](https://scholar.google.com/citations?user=SVP6p3sAAAAJ&hl=fr)</b> <br>
+<i> RMoD Inria, France</i>,
+<b>2024--today</b>.
 
 <b>[Margaret-Anne Storey](https://www.margaretstorey.com/)</b> <br>
 <i> University of Victoria, Canada</i>,
@@ -50,7 +58,7 @@ author_profile: true
 
 <b>[Joel Nikalus](https://niklaus.ai/)</b> <br>
 <i> Digital Sustainability Research Center, Switzerland</i>,
-<b>2021-Today</b>.
+<b>2021-2024</b>.
 
 <b>[Sebastiano Panichella](https://spanichella.github.io/)</b> <br>
 <i> Zurich University of Applied Science, Switzerland</i>,
@@ -62,11 +70,11 @@ author_profile: true
 
 <b>[Andrea Di Sorbo](https://www.unisannio.it/it/user/9355/didattica)</b> <br>
 <i>University of Sannio, Italy</i>,
-<b>2019-Today</b>.
+<b>2019-2024</b>.
 
 <b>[Alexander Bergel](http://www.bergel.eu)</b> <br>
 <i>University of Chille, Chille</i>,
-<b>2020-Today</b>.
+<b>2020-2023</b>.
 
 <b>[Nataliia Stulova](https://s0nata.github.io/)</b> <br>
 <i>University of Bern, Switzerland</i>,
