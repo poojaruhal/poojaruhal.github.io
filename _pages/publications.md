@@ -18,37 +18,37 @@ author_profile: true
 -->
 
 <b>[Code Review Comprehension: Reviewing Strategies Seen Through  Code Comprehension Theories](https://poojaruhal.github.io/publications/Paper-Code-review-strategies)</b> <br>
-<b>Pavlina Wurzel Goncalves, Pooja Rani, Margaret-Anne "Peggy" Storey, Diomidis Spinellis, Alberto Bacchelli
+<b>Pavlina Wurzel Goncalves, **Pooja Rani**, Margaret-Anne "Peggy" Storey, Diomidis Spinellis, Alberto Bacchelli
 </b>,
 <i>International Conference on Program Comprehension (ICPC)</i>,
 <b>2025</b>.
 
-<b>[Empirically Evaluating the Impact of Object-Centric Breakpoints on the Debugging of Object-Oriented Programs](https://poojaruhal.github.io/publications/Paper-Object-centric-debugging-points)</b> <br>
-<b>Valentin Bourcier, Pooja Rani, Maximilian Ignacio,Alberto Bacchelli, Steven Costiou
+<b>[Empirically Evaluating the Impact of Object-Centric Breakpoints on the Debugging of Object-Oriented Programs](https://poojaruhal.github.io/publications/Paper-Object-Centric-Debugging)</b> <br>
+<b>Valentin Bourcier, **Pooja Rani**, Maximilian Ignacio, Alberto Bacchelli, Steven Costiou
 </b>,
 <i> Foundations of Software Engineering (FSE)</i>,
 <b>2025</b>.
 
 <b>[On Refining the SZZ Algorithm with Bug Discussion Data](https://poojaruhal.github.io/publications/Paper-On-Refining-SZZ-Algorithm)</b> <br>
-<b>Pooja Rani, Fernando Petrulio,Alberto Bacchelli
+<b>**Pooja Rani**, Fernando Petrulio,Alberto Bacchelli
 </b>,
 <i>EMSE</i>,
 <b>2024</b>.
 
 <b>[Does Simulation-based Testing for Self-driving Cars match Human  Perception?](https://poojaruhal.github.io/publications/Simulation-Based-Testing-Self-Driving-Cars)</b> <br>
-<b>Christian Birchler, Tanzil Kombarabettu Mohammed, Pooja Rani, Teodora Nechita, Timo Kehrer, Sebastiano Panichella
+<b>Christian Birchler, Tanzil Kombarabettu Mohammed, **Pooja Rani**, Teodora Nechita, Timo Kehrer, Sebastiano Panichella
  </b>,
 <i>FSE</i>,
 <b>2024</b>.
 
 <b>[Energy Patterns for Web: An Exploratory Study](https://poojaruhal.github.io/publications/Paper-On-Web-Energy-Patterns)</b><br>
-<b>Pooja Rani, Jonas Zellweger, Veronika Kousadianos, Luis Cruz, Timo Kehrer, Alberto Bacchelli
+<b>**Pooja Rani**, Jonas Zellweger, Veronika Kousadianos, Luis Cruz, Timo Kehrer, Alberto Bacchelli
  </b>,
 <i>ICSE in SEIS (Society track)</i>,
 <b>2024</b>.
 
 <b>[Beyond Code: Is There a Difference between Comments in Visual and Textual Languages?](https://poojaruhal.github.io/publications/Paper-Beyond-Code-Difference-between-Comments-in-Visual-Textual-Languages)</b> <br>
-<b>Alexander Boll, Pooja Rani, Alexander Schultheiss, Timo Kehrer</b>,
+<b>Alexander Boll, **Pooja Rani**, Alexander Schultheiss, Timo Kehrer</b>,
 <i>Journal of Systems and Software (JSS)</i>,
 <b>2024</b>.
 
