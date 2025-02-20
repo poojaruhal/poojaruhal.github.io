@@ -17,7 +17,7 @@ author_profile: true
 {% endfor %}
 -->
 
-<b>[Code Review Comprehension: Reviewing Strategies Seen Through  Code Comprehension Theories](https://poojaruhal.github.io/publications/Paper-Code-review-strategies)</b> <br>
+<b>[Code Review Comprehension: Reviewing Strategies Seen Through  Code Comprehension Theories](https://poojaruhal.github.io/publications/Paper-Code-Comprehension-Review-Model)</b> <br>
 <b>Pavlina Wurzel Goncalves, **Pooja Rani**, Margaret-Anne "Peggy" Storey, Diomidis Spinellis, Alberto Bacchelli
 </b>,
 <i>International Conference on Program Comprehension (ICPC)</i>,
