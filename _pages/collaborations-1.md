@@ -34,7 +34,7 @@ author_profile: true
 
 <b>[Margaret-Anne Storey](https://www.margaretstorey.com/)</b> <br>
 <i> University of Victoria, Canada</i>,
-<b>2023</b>.
+<b>2023-2024</b>.
 
 <b>[Alberto Bacchelli](https://sback.it/)</b> <br>
 <i> University of Zurich, Switzerland</i>,

@@ -17,11 +17,11 @@ author_profile: true
 {% endfor %}
 -->
 
-<b>[Code Review Comprehension: Reviewing Strategies Seen Through  Code Comprehension Theories](https://doi.org/10.5281/zenodo.14748996)</b> <br>
+<b>[Code Review Comprehension: Reviewing Strategies Seen Through Code Comprehension Theories](https://poojaruhal.github.io/publications/Paper-Code-Comprehension-Review-Model)</b> <br>
 <b>Pavlina Wurzel Goncalves, **Pooja Rani**, Margaret-Anne "Peggy" Storey, Diomidis Spinellis, Alberto Bacchelli
 </b>,
 <i>International Conference on Program Comprehension (ICPC)</i>,
-<b>2025</b>.
+<b>2025. [Online](https://export.arxiv.org/abs/2503.21455) (ACM SIGSOFT Distinguished Paper Award)</b>.
 
 <b>[Empirically Evaluating the Impact of Object-Centric Breakpoints on the Debugging of Object-Oriented Programs](https://hal.science/hal-04948470)</b> <br>
 <b>Valentin Bourcier, **Pooja Rani**, Maximilian Ignacio, Alberto Bacchelli, Steven Costiou
