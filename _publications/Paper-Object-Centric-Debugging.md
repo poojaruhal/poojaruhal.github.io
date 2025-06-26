@@ -7,9 +7,8 @@ date: 2025-06-17
 ---
 
 [Arxiv](https://hal.science/hal-04948470),
-[Replication Package](https://doi.org/10.5281/zenodo.14802898),
-
-
+[Paper](https://dl.acm.org/doi/10.1145/3715759),
+[Replication Package](https://zenodo.org/records/14844897)
 
 ## ABSTRACT
 ### Context

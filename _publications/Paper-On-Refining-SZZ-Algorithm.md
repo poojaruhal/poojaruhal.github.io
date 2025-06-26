@@ -7,7 +7,9 @@ date: 2024-04-04
 ---
 
 [Paper](https://poojaruhal.github.io/files/Paper-On-Refining-SZZ-Algorithm.pdf),
-[Online](https://link.springer.com/article/10.1007/s10664-024-10511-2),
+[Online Paper](https://link.springer.com/article/10.1007/s10664-024-10511-2),
+[Slides](https://poojaruhal.github.io/files/Slides-On-Refining-SZZ-Algorithim.pdf),
+[Online Slides](https://www.slideshare.net/slideshow/on-refining-szz-algorithm-bug-discussion-data-pdf/280962616),
 [Replication Package](https://zenodo.org/records/11484723)
 
 ## ABSTRACT

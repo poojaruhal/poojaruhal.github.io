@@ -22,12 +22,12 @@ I can say that I have witnessed the instances of real software engineering chall
 
 
 ## Recent Updates
+- Journal-first paper presented at FSE 2025, Trondheim, Norway.
 - Received the **ACM SIGSOFT Distinguished Paper Award** at ICPC, 2025
 - Invited talk at Hasso Plattner Institut, Potsdam, Germany, 2025
 - Gave a keynote at  7th International Conference on Information
   Systems and Management Science (ISMS-2024), NITK Kurukshetra, India, 2025
 - Papers accepted in FSE & ICPC 2025
-- Invited talk at the University of Mannheim, Germany, 2024
 - Invited talk at the Eindhoven University of Technology, Netherlands, 2024
 - Invited talk at TU Darmstadt, Germany, 2024
 - Papers accepted in FSE & ICSE 2024
