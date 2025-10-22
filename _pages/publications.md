@@ -16,6 +16,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
+<b>[Greening AI-enabled Systems with Software Engineering: A Research Agenda for Environmentally Sustainable AI Practices](https://doi.org/10.1145/3743095.3743099)</b> <br>
+<b> Green Software Engineering Community </b>,
+<i>ACM SIGSOFT Software Engineering Notes</i>,
+<b>2025.[Online](https://doi.org/10.1145/3743095.3743099)</b>.
 
 <b>[Code Review Comprehension: Reviewing Strategies Seen Through Code Comprehension Theories](https://poojaruhal.github.io/publications/Paper-Code-Comprehension-Review-Model)</b> <br>
 <b>Pavlina Wurzel Goncalves, **Pooja Rani**, Margaret-Anne "Peggy" Storey, Diomidis Spinellis, Alberto Bacchelli
