@@ -22,17 +22,16 @@ At the end of the course, students are able to:
 - Give a scientific presentation in terms of structure, level of detail, and presentation techniques.
 
 
-
 # Schedule
-| **Date**     | **Lecture**                                                 | **Deadline**      |
-|--------------|-------------------------------------------------------------|-------------------|
-| February 20  | Lecture 1 & 2: Understanding the Research World(online)     |                   |
-| February 27  | Lecture 3: Produce a Literature Review & Latex 101 (online) |                   |
-| April 15     | Paper Bidding                                               | Literature Review |
-| April 29     | Reviewing                                                   |                   |
-| May 6        | Discussion                                                  | Reviews           |
-| May 13       | Manuscript Revision                                         | Review Decisions  |
-| May 20       | Final presentation (onsite)                                 |                   |
+| Date     | Lecture                                            | Deadline          |
+|----------|----------------------------------------------------|-------------------|
+| Feb 20   | Kickoff, Understanding the Research World (online) |                   |
+| Feb 27   | Produce a Literature Review & Latex 101 (online)   |                   |
+| April 15 | Paper Bidding                                      | Literature Review |
+| April 29 | Reviewing                                          |                   |
+| May 6    | Discussion                                         | Reviews           |
+| May 13   | Manuscript Revision                                | Review Decisions  |
+| May 20   | Final presentation (onsite)                        |                   |
 
 # Project Selection
 Please fill out the form at [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSetvQidYFB_4rmkskJu4R1tScxlUJrugzSnIO7evxU6IeIyDg/viewform?usp=sharing&ouid=114910229701455727084) to give your preference for various topics.

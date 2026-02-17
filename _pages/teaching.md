@@ -8,7 +8,7 @@ author_profile: true
 <b>[Seminar: Green Software Engineering](https://poojaruhal.github.io/teaching/2026-seminar-GSE)</b> <br>
 <b>BSc and MSc course</b>,
 <i>University of Mannheim</i>,
-<b>2025, 2026 </b>.<br>
+<b> 2026 </b>.<br>
 The students will work on a specific research topic in green software engineering. By the end of the course, they are asked to present a literature review on the chosen topic in the form of a report.
 Furthermore, the students will take part in a simulated peer-reviewing process for the first version of the produced reports. Finally, they will share as a presentation the results of their work and discuss them with the class.
 <br>
