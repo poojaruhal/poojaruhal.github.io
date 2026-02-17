@@ -16,6 +16,25 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
+
+<b>[Key-Augmented Neural Triggers for Knowledge Sharing](https://arxiv.org/pdf/2508.03340)</b> <br>
+<b>Alex Wolf, Marco Edoardo Palma, **Pooja Rani**, Harald C. Gall
+</b>,
+<i>Under major revision, Journal of Systems and Software (JSS)</i>,
+<b>2026</b>.
+
+<b>[Towards Privacy-Preserving Code Generation: Differentially Private Code Language Models](https://arxiv.org/abs/2512.11482)</b> <br>
+<b>Melih Catal, **Pooja Rani**, Harald C. Gall
+</b>,
+<i>Preprint on Arxiv</i>,
+<b>2026</b>.
+
+<b>[Multi Language Models for On-the-Fly Syntax Highlighting](https://arxiv.org/pdf/2510.04166)</b> <br>
+<b>Marco Edoardo Palma, **Pooja Rani**, Harald C. Gall
+</b>,
+<i>Under minor revision, Journal of Systems and Software (JSS)</i>,
+<b>2026</b>.
+
 <b>[Greening AI-enabled Systems with Software Engineering: A Research Agenda for Environmentally Sustainable AI Practices](https://doi.org/10.1145/3743095.3743099)</b> <br>
 <b> Green Software Engineering Community </b>,
 <i>ACM SIGSOFT Software Engineering Notes</i>,
