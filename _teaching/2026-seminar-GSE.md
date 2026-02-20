@@ -34,7 +34,7 @@ At the end of the course, students are able to:
 
 
 # Project Selection
-Please go through the [projects](https://poojaruhal.github.io/files/SemGSE-Topics) and fill out the form at [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSetvQidYFB_4rmkskJu4R1tScxlUJrugzSnIO7evxU6IeIyDg/viewform?usp=sharing&ouid=114910229701455727084) to give your preference for various topics. 
+Please go through the [projects](https://poojaruhal.github.io/files/SemGSE-Topics.pdf) and fill out the form at [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSetvQidYFB_4rmkskJu4R1tScxlUJrugzSnIO7evxU6IeIyDg/viewform?usp=sharing&ouid=114910229701455727084) to give your preference for various topics. 
 
 # Review Process
 You will participate in a simulated review process. We will use the [HotCRP](https://mannheim-semgse26.hotcrp.com/) Platform for the review process. Please sign up with your UMA email there.
