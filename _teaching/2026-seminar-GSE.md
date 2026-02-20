@@ -23,27 +23,24 @@ At the end of the course, students are able to:
 
 
 # Schedule
-- Feb 20   , Kickoff, Understanding the Research World (online) 
+- Feb 20   , [Kickoff](https://poojaruhal.github.io/files/01-SemGSE-Intro.pdf), [Understanding the Research World](https://poojaruhal.github.io/files/02-understanding_the_research_world.pdf) (online)
 - Feb 27   , Produce a Literature Review & Latex 101 (online)   
-- April 15 , Paper Bidding                                      
+- April 15 , Submit Literature Review Report, Start Paper Bidding                                   
 - April 29 , Reviewing                                          
-- May 6    , Discussion                                         
-- May 13   , Manuscript Revision                                
-- May 20   , Final presentation (onsite)                        
+- May 6    , Submit Review, Start Discussion                                         
+- May 13   , Review Decision, Report Revision                                
+- May 20   , Final presentation (onsite) 
+- May 27, Final Report
 
-# Deadline
-- April 15, Literature Review
-- May 6, Reviews
-- May 13, Review Decisions
 
 # Project Selection
-Please fill out the form at [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSetvQidYFB_4rmkskJu4R1tScxlUJrugzSnIO7evxU6IeIyDg/viewform?usp=sharing&ouid=114910229701455727084) to give your preference for various topics.
+Please go through the [projects](https://poojaruhal.github.io/files/SemGSE-Topics) and fill out the form at [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSetvQidYFB_4rmkskJu4R1tScxlUJrugzSnIO7evxU6IeIyDg/viewform?usp=sharing&ouid=114910229701455727084) to give your preference for various topics. 
 
 # Review Process
 You will participate in a simulated review process. We will use the [HotCRP](https://mannheim-semgse26.hotcrp.com/) Platform for the review process. Please sign up with your UMA email there.
 
 # Grading
 The final grading will depend on three parts:
-- written report (60%)
+- written literature review report (60%)
 - participation in the simulated reviewing process (20%)
 - presentation (20%)
