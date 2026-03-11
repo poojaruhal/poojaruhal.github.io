@@ -24,17 +24,18 @@ At the end of the course, students are able to:
 
 # Schedule
 - Feb 20   , [Kickoff](https://poojaruhal.github.io/files/01-SemGSE-Intro.pdf), [Understanding the Research World](https://poojaruhal.github.io/files/02-understanding_the_research_world.pdf) (online)
-- Feb 27   , Produce a Literature Review & Latex 101 (online)   
-- April 15 , Submit Literature Review Report, Start Paper Bidding                                   
-- April 29 , Reviewing                                          
-- May 6    , Submit Review, Start Discussion                                         
-- May 13   , Review Decision, Report Revision                                
-- May 20   , Final presentation (onsite) 
-- May 27, Final Report
+- Apr 3   , Produce a Literature Review & Latex 101 (online)   
+- April 29 , Submit Literature Review Report, Start Paper Bidding                                   
+- May 13 , Reviewing                                          
+- May 20    , Submit Review, Start Discussion                                         
+- May 27   , Review Decision, Report Revision                                
+- June 17  , Final presentation (onsite) 
+- June 24, Final Report
 
 
 # Project Selection
 Please go through the [projects](https://poojaruhal.github.io/files/SemGSE-Topics.pdf) and fill out the form at [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSetvQidYFB_4rmkskJu4R1tScxlUJrugzSnIO7evxU6IeIyDg/viewform?usp=sharing&ouid=114910229701455727084) to give your preference for various topics. 
+Once you have been assigned an initial topic, please fill out the [research question selection form](https://forms.gle/CK7xxQYKXRNm1sy79).
 
 # Review Process
 You will participate in a simulated review process. We will use the [HotCRP](https://mannheim-semgse26.hotcrp.com/) Platform for the review process. Please sign up with your UMA email there.
