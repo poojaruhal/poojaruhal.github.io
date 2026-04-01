@@ -25,12 +25,12 @@ At the end of the course, students are able to:
 # Schedule
 - Feb 20   , [Kickoff](https://poojaruhal.github.io/files/01-SemGSE-Intro.pdf), [Understanding the Research World](https://poojaruhal.github.io/files/02-understanding_the_research_world.pdf) (online)
 - Apr 13, Produce a Literature Review & Latex 101 (online)   
-- April 30, Submit Literature Review Report, Start Paper Bidding
-- May 13, Reviewing                                          
-- May 20, Submit Review, Start Discussion                                         
-- May 27, Review Decision, Report Revision                                
-- June 17, Final presentation (onsite) 
-- June 24, Final Report
+- May 15, Submit Literature Review Report, Start Paper Bidding
+- May 22, Reviewing                                          
+- May 29, Submit Review, Start Discussion                                         
+- June 5, Review Decision, Report Revision                                
+- June 23, Final presentation (onsite) 
+- June 30, Final Report
 
 
 # Project Selection
