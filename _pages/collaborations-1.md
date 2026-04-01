@@ -16,13 +16,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
-<b>[Luis Cruz](https://luiscruz.github.io/)</b> <br>
-<i> TU Delft, Netherlands</i>,
-<b>2022-Today</b>.
-
-<b>[June Sallou](https://jnsll.github.io/)</b> <br>
-<i> Wageningen University and Research, Netherlands</i>,
-<b>2023-Today</b>.
+<b>[Vincenzo Stoico](https://vstoico.gitlab.io/)</b> <br>
+<i>  Vrije Universiteit Amsterdam, Netherlands</i>,
+<b>2025-Today</b>.
 
 <b>[Steven Costiou](https://scholar.google.com/citations?hl=fr&user=KLPmm0gAAAAJ&view_op=list_works&sortby=pubdate)</b> <br>
 <i> RMoD Inria, France</i>,
@@ -31,6 +27,14 @@ author_profile: true
 <b>[Valentin Bourcier](https://scholar.google.com/citations?user=SVP6p3sAAAAJ&hl=fr)</b> <br>
 <i> RMoD Inria, France</i>,
 <b>2024--today</b>.
+
+<b>[Harald Gall](https://www.ifi.uzh.ch/en/seal/people/gall.html)</b> <br>
+<i> Software Evolution and Architecture Lab (s.e.a.l.), Switzerland</i>,
+<b>2024--Today</b>.
+
+<b>[June Sallou](https://jnsll.github.io/)</b> <br>
+<i> Wageningen University and Research, Netherlands</i>,
+<b>2023-Today</b>.
 
 <b>[Margaret-Anne Storey](https://www.margaretstorey.com/)</b> <br>
 <i> University of Victoria, Canada</i>,
@@ -42,6 +46,10 @@ author_profile: true
 
 <b>[Francesco Sovrano](https://www.ifi.uzh.ch/en/zest/team/francesco_sovrano.html)</b> <br>
 <i> University of Zurich, Switzerland</i>,
+<b>2022-Today</b>.
+
+<b>[Luis Cruz](https://luiscruz.github.io/)</b> <br>
+<i> TU Delft, Netherlands</i>,
 <b>2022-Today</b>.
 
 <b>[Christos Tsigkanos](https://christos.tsigkanos.net/)</b> <br>

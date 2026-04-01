@@ -17,11 +17,11 @@ author_profile: true
 {% endfor %}
 -->
 
-<b>[Key-Augmented Neural Triggers for Knowledge Sharing](https://arxiv.org/pdf/2508.03340)</b> <br>
+<b>[Key-Augmented Neural Triggers for Knowledge Sharing](https://doi.org/10.1016/j.jss.2026.112850)</b> <br>
 <b>Alex Wolf, Marco Edoardo Palma, **Pooja Rani**, Harald C. Gall
 </b>,
-<i>Under major revision, Journal of Systems and Software (JSS)</i>,
-<b>2026</b>.
+<i>Journal of Systems and Software (JSS)</i>,
+<b>July 2026</b>.
 
 <b>[Towards Privacy-Preserving Code Generation: Differentially Private Code Language Models](https://arxiv.org/abs/2512.11482)</b> <br>
 <b>Melih Catal, **Pooja Rani**, Harald C. Gall

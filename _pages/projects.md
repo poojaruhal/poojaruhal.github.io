@@ -8,33 +8,37 @@ author_profile: true
 <b>Ongoing Supervision</b><br>
 --
 * <i>Comment Quality Assessment</i>,
- <b>Yixuan Zhou, UZH </b>
-  <b> Master Thesis, 2025 </b>
+ <b>Yixuan Zhou, UZH, </b>
+  <b> Master Thesis, 2025-2026 </b>
 
-* <i>Serverless Trace Analysis</i>,
-  <b> Artem Shkabruk and Zisen Liu, UZH </b>
-  <b> Master Project, 2025 </b>
-
-* <i>Energy Code Patterns in Python Web Applications</i>,
-  <b> Dana Rapp, UZH </b>
-  <b> Master Thesis, 2025 </b>
-
+* <i>Energy-Pattern Awareness in Code Review</i>,
+  <b> Anna Pang, UZH, </b>
+  <b> BSc Thesis, 2025-2026 </b>
+* 
 * <i>Impact of Polyglot-ism on Developer Productivity</i>,
-  <b> Gianluca, UZH </b>
-  <b> BSc Thesis, 2025 </b>
-
-* <i>Evaluating Memory Efficiency and Performance Trade-Offs of Linter Recommendations in C++</i>,
-  <b> Andy de Vantéry, UZH </b>
-  <b> BSc Thesis, 2025 </b>
+  <b> Gianluca, UZH, </b>
+  <b> BSc Thesis, 2025-2026 </b>
 
 <b> Finished projects </b>
 ---
+* <i>Serverless Trace Analysis</i>,
+  <b> Artem Shkabruk and Zisen Liu, UZH and ETH, </b>
+  <b> Master Project, 2025-2026 </b>
+* 
+* <i>Energy Code Patterns in Python Web Applications</i>,
+  <b> Dana Rapp, UZH, </b>
+  <b> Master Thesis, 2026 </b>
+
+* <i>Evaluating Memory Efficiency and Performance Trade-Offs of Linter Recommendations in C++</i>,
+  <b> Andy de Vantéry, UZH, </b>
+  <b> BSc Thesis, 2025 </b>
+
 * <i>Comment plugin for Visual Studio Code</i>,
   <b> Yixuan Zhou and Yapeng Zhang, UZH,</b>
   <b> Master Project, 2025</b>
 
 * <i>[Adherence of comments to the style guidelines](http://scg.unibe.ch/wiki/projects/mastersbachelorsprojects/Adherence-of-class-comments-style-guidelines)</i>,
-<b> Eric Rudischhauser, UZH </b>
+<b> Eric Rudischhauser, UZH, </b>
   <b> BSc, 2025 </b>
 
 * <b>[Why developers write code comments](https://poojaruhal.github.io/teaching/project-code-comments-worthwhile)</b>,
