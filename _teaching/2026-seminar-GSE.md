@@ -24,7 +24,7 @@ At the end of the course, students are able to:
 
 # Schedule
 - Feb 20   , [Kickoff](https://poojaruhal.github.io/files/01-SemGSE-Intro.pdf), [Understanding the Research World](https://poojaruhal.github.io/files/02-understanding_the_research_world.pdf) (online)
-- Apr 13, Produce a Literature Review & Latex 101 (online)   
+- Apr 13, [Produce a Literature Review](https://poojaruhal.github.io/files/03-produce-a-literature-review.pdf) & [Latex 101](https://poojaruhal.github.io/files/04_latex_101.pdf) (online)   
 - May 15, Submit Literature Review Report, Start Paper Bidding
 - May 22, Reviewing                                          
 - May 29, Submit Review, Start Discussion                                         

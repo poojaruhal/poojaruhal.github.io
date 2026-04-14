@@ -21,7 +21,7 @@ I also bring substantial industry experience in software engineering, having wor
 These experiences allow me to approach software engineering challenges from both academic and industrial perspectives.
 
 ## Recent Updates 
-- Recieved [Wuebben Foundation](https://www.wuebben-stiftung-wissenschaft.org/en/news/better-software-and-technological-innovations) grant (~800 eur), 2025
+- Recieved [Wuebben Foundation](https://www.wuebben-stiftung-wissenschaft.org/en/news/better-software-and-technological-innovations) grant (~800k eur), 2025
 - Received a SNSF Project Grant (500k chf)-EdiSE (Energy-driven Integration in Software Engineering), 2025
 - Received the **ACM SIGSOFT Distinguished Paper Award** at ICPC, 2025
 - Gave a keynote at  7th International Conference on Information
