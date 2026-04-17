@@ -62,7 +62,7 @@ This course provide an overview about techniques to analyze complex software sys
 A portion of this course makes heavy use of Smalltalk, a live programming environment that supports advanced reflection metaprogramming techniques.
 More details can be found [Here](http://scg.unibe.ch/teaching/sma) <br>
 
-<b>[Object-orineted Programming](https://poojaruhal.github.io/teaching/2018-spring-teaching)</b> <br>
+<b>[Object-oriented Programming](https://poojaruhal.github.io/teaching/2018-spring-teaching)</b> <br>
 <b>Undergraduate course</b>,
 <i>University of Bern</i>,
 <b>Every Spring - 2018, 2019, 2020, 2021, 2022</b>.<br>

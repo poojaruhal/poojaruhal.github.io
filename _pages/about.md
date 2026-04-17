@@ -29,4 +29,3 @@ These experiences allow me to approach software engineering challenges from both
 - Invited talk at the Eindhoven University of Technology, Netherlands, 2024
 - Received the **Distinguished Reviewer Award** at MSR, 2023
 - Received the **Best PhD Thesis Award** in computer science institutes of the University of Bern, Neuchatel, and Fribourg (JAACS) at Bern, Switzerland, 2022
-- Gave an invited talk at [Women in STEM](https://www.w-stem.org/), 2022

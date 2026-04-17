@@ -5,8 +5,25 @@ permalink: /projects/
 author_profile: true
 ---
 
-<b>Ongoing Supervision</b><br>
+<b>Ongoing PhD/MSc/BSc Supervision</b><br>
 --
+
+* <i>Effective energy monitoring of software routines</i>,
+  <b>Jeremy Diamond, </b>
+  <b> PhD Thesis, University of Zurich, 2026--now </b>
+
+* <i>Improving the security aspect of code-based LLMs</i>,
+  <b>Melih Catal, </b>
+  <b> PhD Thesis, University of Zurich, 2025-now </b>
+
+* <i>Improving trust and adaptability of open-source software developers,</i>,
+  <b>Alex Wolf,</b>
+  <b> PhD Thesis, University of Zurich, 2024--now </b>
+
+* <i>Exploring energy impact of Matlab code,</i>,
+  <b>Jan-Andrea Bard,</b>
+  <b>PhD Thesis, University of Bern, 2024--now </b>
+
 * <i>Comment Quality Assessment</i>,
  <b>Yixuan Zhou, UZH, </b>
   <b> Master Thesis, 2025-2026 </b>
@@ -14,17 +31,17 @@ author_profile: true
 * <i>Energy-Pattern Awareness in Code Review</i>,
   <b> Anna Pang, UZH, </b>
   <b> BSc Thesis, 2025-2026 </b>
-* 
+
 * <i>Impact of Polyglot-ism on Developer Productivity</i>,
   <b> Gianluca, UZH, </b>
   <b> BSc Thesis, 2025-2026 </b>
 
-<b> Finished projects </b>
+<b> Finished Projects and Theses </b>
 ---
 * <i>Serverless Trace Analysis</i>,
   <b> Artem Shkabruk and Zisen Liu, UZH and ETH, </b>
   <b> Master Project, 2025-2026 </b>
-* 
+
 * <i>Energy Code Patterns in Python Web Applications</i>,
   <b> Dana Rapp, UZH, </b>
   <b> Master Thesis, 2026 </b>
