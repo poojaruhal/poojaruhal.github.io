@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 <!--
@@ -16,7 +16,17 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
+## Research Interest
+Software continuously evolves to keep up with user needs while simultaneously being required to be high-quality, stable, flexible, and sustainable. Consequently, it becomes complex, hard to understand, and maintain over time.  Since software development is a socio-technical area, it requires an understanding of human aspects, domain expertise, and technologies to facilitate development. We approach it by conducting mixed-methods interdisciplinary empirical research at the intersection of software engineering, social computing, and human-computer interaction. 
+`
+Our research focuses on answering various interesting questions:
 
+- How to build human-centered, sustainable, and responsible AI software systems?
+- How to ensure and maintain the quality of software and its associated artifacts?
+- How to leverage the socio-technical nature of software engineering to design better tools and techniques?
+Some areas of interest: Sustainable and Green Software Engineering, Software activities (e.g., Code Review, Code Comprehension, Software Testing, Software Documentation). Please find details about some topics in the projects.
+
+## Publications
 <b>[Key-Augmented Neural Triggers for Knowledge Sharing](https://doi.org/10.1016/j.jss.2026.112850)</b> <br>
 <b>Alex Wolf, Marco Edoardo Palma, **Pooja Rani**, Harald C. Gall
 </b>,

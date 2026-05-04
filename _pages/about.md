@@ -16,16 +16,17 @@ My research focuses on developing sustainable software systems and equipping dev
 Previously, I worked as an [Oberassistant/Senior Researcher](https://www.ifi.uzh.ch/en/seal/people/rani.html) at [University of Zurich](https://www.uzh.ch/en.html) with [Prof. Harald Gall](https://www.ifi.uzh.ch/en/seal/people/gall.html), 
 [Senior researcher](https://www.ifi.uzh.ch/en/zest/people/pooja.html) with [Prof. Alberto Bacchelli](https://sback.it/), and as a [Postdoctoral researcher](https://seg.inf.unibe.ch/team/) with [Prof. Timo Kehrer](https://seg.inf.unibe.ch/people/timo/).
 I received my PhD (with honors) from the [Software Composition Group](http://scg.unibe.ch/) at [University of Bern](https://www.unibe.ch/) under the supervision of [Prof. Oscar Nierstrasz](http://scg.unibe.ch/staff/oscar) and [Dr. Sebastiano Panichella](https://spanichella.github.io/).
-
 I also bring substantial industry experience in software engineering, having worked as a Software Engineer in testing in [Samsung](https://research.samsung.com/sri-n), as an Automation Engineer in [VMware](https://www.vmware.com/), and as a Software Developer in [People Interactive Ltd](https://www.linkedin.com/company/atshaadidotcom/).
 These experiences allow me to approach software engineering challenges from both academic and industrial perspectives.
 
-## Recent Updates 
+## Prospective Students and Researchers
+If you are a motivated researcher, looking for a Master, PhD or Postodc position, checkout our [Sustainable Software Engineering group](https://www.wim.uni-mannheim.de/atkinson/team/prof-dr-pooja-rani/) at the University of Mannheim. Please feel free to reach out to me before applying, to introduce yourself and describe your research interests. We currently have two open positions [PhD/Postdoc Positions](https://www.wim.uni-mannheim.de/atkinson/team/prof-dr-pooja-rani/join-us).
+
+## Recent Updates
 - Recieved [Wuebben Foundation](https://www.wuebben-stiftung-wissenschaft.org/en/news/better-software-and-technological-innovations) grant (~800k eur), 2025
 - Received a SNSF Project Grant (500k chf)-EdiSE (Energy-driven Integration in Software Engineering), 2025
 - Received the **ACM SIGSOFT Distinguished Paper Award** at ICPC, 2025
-- Gave a keynote at  7th International Conference on Information
+- Gave a keynote at 7th International Conference on Information
   Systems and Management Science (ISMS-2024), NITK Kurukshetra, India, 2025
-- Invited talk at the Eindhoven University of Technology, Netherlands, 2024
 - Received the **Distinguished Reviewer Award** at MSR, 2023
 - Received the **Best PhD Thesis Award** in computer science institutes of the University of Bern, Neuchatel, and Fribourg (JAACS) at Bern, Switzerland, 2022
