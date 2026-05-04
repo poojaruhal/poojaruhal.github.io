@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research"
-permalink: /publications/
+permalink: /research/
 author_profile: true
 ---
 <!--
@@ -16,7 +16,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
-## Research Interest
+
 Software continuously evolves to keep up with user needs while simultaneously being required to be high-quality, stable, flexible, and sustainable. Consequently, it becomes complex, hard to understand, and maintain over time.  Since software development is a socio-technical area, it requires an understanding of human aspects, domain expertise, and technologies to facilitate development. We approach it by conducting mixed-methods interdisciplinary empirical research at the intersection of software engineering, social computing, and human-computer interaction. 
 `
 Our research focuses on answering various interesting questions:
